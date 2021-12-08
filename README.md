@@ -4,7 +4,8 @@
 <div align="center" width="50">
 
 <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/welcome.gif" alt="Welcome!" width="600"/>
-
+</br>
+</br>
 </div>
 <div align="center">
 
@@ -13,7 +14,7 @@ Ask me anything <a href="https://github.com/suriya4code/suriya4code/issues/new">
 or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
-
+</br>
 </div>
 <div align="center">
 

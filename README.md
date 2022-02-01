@@ -15,6 +15,7 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 </br>
+
 </div>
 <div align="center">
 
@@ -22,19 +23,79 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 </br>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya4code&layout=compact&hide=html&theme=tokyonight" alt="suriya4code" /></p>
+
+<div allign="center">
+
+<h3>Programming Languages : 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python" width="40" height="40" /> </a>
+
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="csharp" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript" width="40" height="40" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" />
+    </a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs" width="40" height="40" />
+</a>
+
+</h3>
+
+<h3>Frontend Development :
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+        alt="vuejs" width="40" height="40" />
+</a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" />
+
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" />
+    </a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3" width="40" height="40" />
+</a>
+
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+        width="40" height="40" /></a>
+</h3>
+
+<h3>Database : 
+
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb" width="40" height="40" />
+    </a>
+</h3>
+
+
+<h3> AI/ML  : 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+</a>
+
+</h3>
+
+  </div>
+
 </br>
-<div align="center">
-<h1>Skills :star:</h1>
-
-<p align="center"> <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=34ebeb&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/Angular-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=34ebeb&logo=data:image/svg%2bxml;base64,"/></p>
-
-<!-- <p border="black"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" height="20" width="20">Angular ⭐⭐⭐⭐⭐</p> -->
-
-<p align="center"> <img src="https://img.shields.io/badge/Csharp-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/NodeJs-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,)"/> <img src="https://img.shields.io/badge/SQL-⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/></p>
-
-<p align="center"> <img src="https://img.shields.io/badge/AZURE-⭐⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/NoSql-⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/> </p>
-</div>
 
 <h1 align="center">Social</h1>
 <p align="center">
@@ -42,8 +103,6 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 <a href="https://stackoverflow.com/users/10440572/suriya-prakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="suriya4code" height="30" width="30" /></a>  
   <a href="https://hub.docker.com/u/suriya4code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="suriya4code" height="30" width="30" /></a>
 </p>
-
-
 
 <!--
 **suriya4code/suriya4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

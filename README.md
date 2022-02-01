@@ -1,12 +1,14 @@
 <div align="center">
 <h2> Hi <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="30px"> <span>  </span> Devlopers, Enthusiastic Pythonista here !!</h2>
 </div>
+
 <div align="center" width="50">
 
 <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/welcome.gif" alt="Welcome!" width="600"/>
 </br>
 </br>
 </div>
+
 <div align="center">
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
@@ -15,17 +17,17 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 </br>
-
+<hr>
 </div>
+
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suriya4code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suriya's Github Stats">
 
 </br>
 </br>
-
+<hr>
 <div allign="center">
-
 <h3>Programming Languages : </h3>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -79,6 +81,7 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 </p>
 
 <h3> Database : </h3>
+    </br>
 <p>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -173,10 +176,10 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 </a>
 </p>
 
-  </div>
+</div>
 
 </br>
-
+<hr>
 <h1 align="center">Social</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/suriyaprakashp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suriya4code" height="30" width="30" /></a>

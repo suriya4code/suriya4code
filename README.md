@@ -22,9 +22,10 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suriya4code&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suriya's Github Stats">
-
+<img align="center" src="https://raw.githubusercontent.com/suriya4code/github-stats/master/output/readme_stats_lang.gif" alt="Suriya's Github Stats on Lang">
+   
 </br>
+<h4 align="right"> <a href="https://github.com/suriya4code/github-stats"> Source Code for this Dynamic PieChart Generator </a></h4>
 </br>
 <hr>
 <div allign="center">

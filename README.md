@@ -132,8 +132,8 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 <h3> Framework : </h3>
 <p>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-        height="40" />
+       
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50"   height="50" />
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">

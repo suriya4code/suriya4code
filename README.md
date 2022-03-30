@@ -137,8 +137,8 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-        alt="django" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
+        alt="django" width="60" height="50" />
 </a>
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">

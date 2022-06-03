@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="30px"> <span>  </span> Devlopers, Enthusiastic Pythonista here !!</h2>
+<h2> Hi <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="30px"  height="30px"> <span>  </span> Devlopers, Enthusiastic Pythonista here !!</h2>
 </div>
 
 <div align="center" width="50">

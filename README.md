@@ -127,13 +127,22 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="docker" width="40" height="40" />
 </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+        alt="jenkins" width="40" height="40" />
+</a>
 </p>
 
 <h3> Framework : </h3>
 <p>
+   <a href="https://fastapi.tiangolo.com/">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
+        alt="fastapi" width="65" height="65" />
+</a>
+
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
        
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50"   height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60"   height="60" />
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -146,16 +155,23 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
         alt="dotnet" width="40" height="40" />
 </a>
 
+
 </p>
 <h3> AI/ML  : </h3>
 <p>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
 </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
+</a>
 </p>
 <h3> Other : </h3>
 <p>
-
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode"
+        width="40" height="40" />
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>

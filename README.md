@@ -116,8 +116,7 @@
   <tbody>
     <tr>
       <td valign="top">
-        <a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a><br/>
-        <img src="https://img.shields.io/github/stars/suriya4code/PangoLock?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+        <a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a>
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
@@ -128,8 +127,7 @@
     </tr>
     <tr>
       <td valign="top">
-        <a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><b>RAG PDF Genie</b></a><br/>
-        <img src="https://img.shields.io/github/stars/suriya4code/RAG_PDF_Genie_with_Local_LLM?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+        <a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><b>RAG PDF Genie</b></a>
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -140,8 +138,7 @@
     </tr>
     <tr>
       <td valign="top">
-        <a href="https://github.com/suriya4code/express_js_prometheus"><b>Express + Prometheus</b></a><br/>
-        <img src="https://img.shields.io/github/stars/suriya4code/express_js_prometheus?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+        <a href="https://github.com/suriya4code/express_js_prometheus"><b>Express + Prometheus</b></a>
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
@@ -153,8 +150,7 @@
     </tr>
     <tr>
       <td valign="top">
-        <a href="https://github.com/suriya4code/github-stats"><b>github-stats</b></a><br/>
-        <img src="https://img.shields.io/github/stars/suriya4code/github-stats?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+        <a href="https://github.com/suriya4code/github-stats"><b>github-stats</b></a>
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />

@@ -22,6 +22,42 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
+<h1>🔭 Latest Projects</h1>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![PangoLock](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=PangoLock&theme=default)](https://github.com/suriya4code/PangoLock)
+
+</td>
+<td width="50%" valign="top">
+
+[![seyyon-personal-assitant](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=seyyon-personal-assitant&theme=default)](https://github.com/suriya4code/seyyon-personal-assitant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![RAG_PDF_Genie_with_Local_LLM](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=RAG_PDF_Genie_with_Local_LLM&theme=default)](https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM)
+
+</td>
+<td width="50%" valign="top">
+
+[![github-stats](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=github-stats&theme=default)](https://github.com/suriya4code/github-stats)
+
+</td>
+</tr>
+</table>
+
+<sub>🆕 <b><a href="https://github.com/suriya4code/PangoLock">PangoLock</a></b> — 🫆🔐 Hide &amp; AES-256 encrypt folders on macOS. Native SwiftUI app, zero-knowledge, open source &amp; 100% free. (<a href="https://github.com/suriya4code/PangoLock/releases/latest">latest release</a>)</sub>
+
+<hr>
+</div>
+
+<div align="center">
+
 <img align="center" src="https://raw.githubusercontent.com/suriya4code/github-stats/master/output/readme_stats_lang.gif" alt="Suriya's Github Stats on Lang">
    
 </br>
@@ -49,6 +85,21 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="40" height="40" />
+</a>
+
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+    alt="swift" width="40" height="40" />
+</a>
+
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
+    alt="rust" width="40" height="40" />
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+    alt="java" width="40" height="40" />
 </a>
 
 </p>
@@ -168,6 +219,12 @@ or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" />
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
 </a>
 </p>
 <h3> Other : </h3>

@@ -1,281 +1,176 @@
 <div align="center">
-<h2> Hi <img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="30px"  height="30px"> <span>  </span> Devlopers, Enthusiastic Pythonista here !!</h2>
+
+<img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="32" height="32" alt="wave" />
+
+# Suriyaprakash Palanisamy
+
+### Senior Software Engineer @ Capital One · McLean, VA
+
+<a href="https://github.com/suriya4code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+reliable%2C+scalable+backend+systems;Python+%7C+TypeScript+%7C+Swift+%7C+Java+%7C+Rust;Cloud-native+services+%E2%80%A2+APIs+%E2%80%A2+Applied+AI" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/suriyaprakashp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/10440572/suriya-prakash"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://hub.docker.com/u/suriya4code"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
+  <a href="mailto:suriya4code@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 </div>
 
-<div align="center" width="50">
+---
 
-<img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/welcome.gif" alt="Welcome!" width="600"/>
-</br>
-</br>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
+- 🏦 **Senior Software Engineer at Capital One**, designing and shipping reliable, scalable backend systems.
+- ⚙️ Full-stack range — **Python / FastAPI** services, **TypeScript / React** frontends, and native apps.
+- 🔐 Author of **[PangoLock](https://github.com/suriya4code/PangoLock)** — a zero-knowledge, AES-256 macOS encryption app built in **SwiftUI**.
+- 🤖 Exploring **LLMs & RAG** and applied AI for real-world developer tooling.
+- 💬 Ask me about **Python, distributed services, cloud, and clean API design**.
+- 📫 Reach me anytime at **suriya4code@gmail.com**.
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/suriya4code/suriya4code/issues/new"><b>here</b></a><br>
-or <a href="mailto:suriya4code@gmail.com"><b>email</b></a> me.
+---
 
-<i>Happy Coding!</i> 😊
-</br>
-<hr>
-</div>
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<h1>🔭 Latest Projects</h1>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Data & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-[![PangoLock](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=PangoLock&theme=default)](https://github.com/suriya4code/PangoLock)
-
-</td>
-<td width="50%" valign="top">
-
-[![seyyon-personal-assitant](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=seyyon-personal-assitant&theme=default)](https://github.com/suriya4code/seyyon-personal-assitant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![RAG_PDF_Genie_with_Local_LLM](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=RAG_PDF_Genie_with_Local_LLM&theme=default)](https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM)
-
-</td>
-<td width="50%" valign="top">
-
-[![github-stats](https://github-readme-stats.vercel.app/api/pin/?username=suriya4code&repo=github-stats&theme=default)](https://github.com/suriya4code/github-stats)
-
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Stack</th>
+      <th align="left">What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a><br/>
+        <img src="https://img.shields.io/github/stars/suriya4code/PangoLock?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-0071E3?logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
+      </td>
+      <td valign="top">🫆🔐 Zero-knowledge, AES-256 folder encryption for macOS — portable lockers, encrypted sharing &amp; recovery. Open source &amp; 100% free.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><b>RAG PDF Genie</b></a><br/>
+        <img src="https://img.shields.io/github/stars/suriya4code/RAG_PDF_Genie_with_Local_LLM?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local_LLM-1C3C3C?logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-FF6F00" />
+      </td>
+      <td valign="top">🤖 Chat with your PDFs fully offline — a Retrieval-Augmented Generation pipeline powered by a local LLM. Private by design.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/suriya4code/express_js_prometheus"><b>Express + Prometheus</b></a><br/>
+        <img src="https://img.shields.io/github/stars/suriya4code/express_js_prometheus?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Loki-F5A800?logo=grafana&logoColor=white" />
+      </td>
+      <td valign="top">📈 Express.js CRUD API instrumented with Prometheus metrics, Loki logs and Grafana dashboards — a hands-on observability stack.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/suriya4code/github-stats"><b>github-stats</b></a><br/>
+        <img src="https://img.shields.io/github/stars/suriya4code/github-stats?style=flat&logo=github&color=2F81F7&label=stars" alt="stars" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
+      </td>
+      <td valign="top">📊 A Python tool that generates a dynamic pie chart of any user's GitHub language stats.</td>
+    </tr>
+  </tbody>
 </table>
 
-<sub>🆕 <b><a href="https://github.com/suriya4code/PangoLock">PangoLock</a></b> — 🫆🔐 Hide &amp; AES-256 encrypt folders on macOS. Native SwiftUI app, zero-knowledge, open source &amp; 100% free. (<a href="https://github.com/suriya4code/PangoLock/releases/latest">latest release</a>)</sub>
-
-<hr>
-</div>
+---
 
 <div align="center">
 
-<img align="center" src="https://raw.githubusercontent.com/suriya4code/github-stats/master/output/readme_stats_lang.gif" alt="Suriya's Github Stats on Lang">
-   
-</br>
-<h4 align="right"> <a href="https://github.com/suriya4code/github-stats"> Source Code for this Dynamic PieChart Generator </a></h4>
-</br>
-<hr>
-<div allign="center">
-<h3>Programming Languages : </h3>
-<p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" width="40" height="40" /> </a>
+💡 *Feel free to explore, fork, and open issues or PRs — collaboration welcome.*
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-        alt="csharp" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="40" height="40" />
-</a>
-
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-    alt="swift" width="40" height="40" />
-</a>
-
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-    alt="rust" width="40" height="40" />
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-    alt="java" width="40" height="40" />
-</a>
-
-</p>
-
-<h3>Frontend Development : </h3>
-<p>
-
-<a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /></a>
-
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs" width="40" height="40" />
-</a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" />
-</a>
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" /></a>
-</p>
-
-<h3> Database : </h3>
-    </br>
-<p>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-        height="40" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" />
-    </a>
-
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-        alt="redis" width="40" height="40" />
-</a>
-</p>
-
-
-<h3> Dev Ops  : </h3>
-<p>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
-        height="40" />
-</a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        alt="aws" width="40" height="40" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" />
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
-        alt="jenkins" width="40" height="40" />
-</a>
-</p>
-
-<h3> Framework : </h3>
-<p>
-   <a href="https://fastapi.tiangolo.com/">      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
-        alt="fastapi" width="65" height="65" />
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-       
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60"   height="60" />
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
-        alt="django" width="60" height="50" />
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-        alt="dotnet" width="40" height="40" />
-</a>
-
-
-</p>
-<h3> AI/ML  : </h3>
-<p>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" />
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
-</a>
-</p>
-<h3> Other : </h3>
-<p>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode"
-        width="40" height="40" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-</a>
-
-</a>
-
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        width="40" height="40" />
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-        height="40" />
-</a>
-</p>
+<b>Happy Coding!</b> 😊
 
 </div>
-
-</br>
-<hr>
-<h1 align="center">Social</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/suriyaprakashp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suriya4code" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10440572/suriya-prakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="suriya4code" height="30" width="30" /></a>  
-  <a href="https://hub.docker.com/u/suriya4code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="suriya4code" height="30" width="30" /></a>
-</p>
-
-<!--
-**suriya4code/suriya4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

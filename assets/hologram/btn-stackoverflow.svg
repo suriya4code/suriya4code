@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 260 76" width="260" height="76" role="img" aria-labelledby="t d" fill="none">
+<title id="t">STACK OVERFLOW - users/10440572</title>
+<desc id="d">Contact button: STACK OVERFLOW, users/10440572.</desc>
+<style>
+@font-face{font-family:'HoloDisp';font-weight:800;src:url(data:font/woff2;base64,d09GMgABAAAAAAPwAA8AAAAAB+gAAAOWAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbgUocKgZgP1NUQVQqAGwRCAqHBIUrATYCJAM4Cx4ABCAFVgcgG+YFUZQvyrEAPxPM82dKo+GNrcxf39pMYigGYjDK1nCEVTz//2P99nl31NJ3RJtbo5nkRqQ1KqsTNWpjFNjmwBOZkolEEXsTsUzMNzNSl63kU0BwdrAikMPsNAUQTZ9n8D0Q9whUIj3E9dv7zbEcHvA1XpQEHmgJpN5ETTPZGzid7jzcRJ/4EM/5UVhWdi5oYtMCatrHgXU4gTygOAyAZ5uNG4Q0KuY8ndZj/1pPMAE0JUr09cXQUAQjJ13UNsPLIFzauwUEHdiGIOf+ZgEeQXQ0AzEQBzoYueym+xyRlp6FnQZVIihDMTYxEJMein5fcjUZGYn0XjMu16SFqHFPTSBb4AsBZuQbnyvph36/DfurSTf1uysYOe3s1+DiynC8M36kYnRpd7IO8GS+TQ5IeQ/wQ/o35RbA35FX068U9fULgbaR13GkiRgINoI97TYc7QigCWSpI9BQ2CjBRsdrsLJQmiMPqAyeUKYs4CmdSyaKT+jTv1/fnt27dkHg9pH+MxEzsIcVWckOgA5omhyCjdezjWIsSIRLbvqFWsxrlQQGeBXpYKqJMOkRbMq9e0LNu3MHHk4keKMiU5ZzOXcpIObevUuMmHET3rk7QSfvukLBmCoUJGyDNkPoyUaBrm7wBk6lHjOJXkTo87dv8w41bwUxboGdXGbWiGp4mRkEodOGRkEJADlVRISle2Vaz74GvsRX+fYrwiQxIT2KDIj+QdE3j+obVZM+3lD3HJdw7XLCbsycOhMljp3kOEn2AVsI7dT7vuz/snjR+P7DRpyxWZeHcd4LJDkHYwcr3AjLChpQ71oRLkqur3T9Fm7ybVroR+yORvF1N3rNt6jVGf7FPchY/Zhr+M03FjuOi7MZ44O6ssCAuqN3La66quswcvvv58D19KvXKpfSdJU+qnV/P36wJialh+KJQ9Q4g+GkRMcuX1zg7G2hOcY0HdFdjm6Vdm2vYMT6UEkhDPCBOWBcJ47ucUiQ3+MK5KEyxr3uRlfiNDZe21EYMRo75iNIBru2autJhLO3ncYq4kXGDr05+IYJtn9B8/B9538+mWU/3qhv8GlSF+CrLy+hdK7kDfQ0ELZo2HlEAKmCwPA3mw2/beox5LrqevvvZvvsZu27UWM36rardcP1uuVq+2dTP53ofEB8biGYualgqx0r55XMQ80MmxMmZj+ua2XHU31DezNtG6W+saGRHd3JzkabYmmmhwK2TzkaAAAA) format('woff2')}
+.f-disp{font-family:'HoloDisp','Orbitron','Eurostile','Segoe UI',Arial,sans-serif;font-weight:800}
+@font-face{font-family:'HoloMono';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAARUAA8AAAAAB1gAAAP7AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAbBEICocEhVMBNgIkAxwLHAAEIAV+ByAbhgVRlE3OOwC+PuCBDDXqfwEiFG+9tlVDnRomahgEsO+vVacTNlShc5svT4ctBM//69T7vqSAvuQAo1NAsAOIU7wVeGKau/d0a1fCsR15y6mJGfddmNqEZbZOZxk3I5cMiy74r/4HYP+eAzroI2PuaskM9at7Ke+IRsuWGBXeIcG6r1MICbUmOf/n0kV5Y3GKDTGtcW+0XQPeJz3BA8vyKB7diA74AA+ApnqmzCFxiE1nczhVhQAOAKAQBBNBAJtU6WTz1t2HCcMECAYDAI6Sr5AazzPUPjVCIhNmv6ka5C8WqBPVD+xaL5cWqrMeFIQzWYUa7DzgmUzTXfoPGEtSCgiAylcfgUwWghCGAmIpIJea7e2bEuDzS80lAsEkkQIQS/6CPAflBwwEJZEACAAKMIBYBgLEMvGDSJEMIFM1r2W6TZp+VrpCLTLxHY/ga69cdc7ZBPCAN2gsQghFkKAiAMEFIBlEQbo0DACbZjBQCAIbpHwKpmEk2/Fl0dEeR6c4OeGmtlyzw7W6Bp32E/FWJJDv9Em+AYfFq096in79ulECYZ8A+GZp9OEALQN7C3r5QXmL6fqSadAloHVHI4TntMER+/KwMVFY7N4jJIuwHVpiaBUg+EqA4IThGIXXR0+mH9cel9F3QiWw9MnJomjR1mHxaVOjxfcq0+gC+90Jtmw7fNjFFUd6dRdadIKto/qaRfQcFuxEu9HFOawLr2K7PUsP2tjiMkrTkTF6ruH17sfmqjWx/L+kNUBJddceN66YbPDGlEKtSe9JAyhTng3pdGXFZHQQvWXWxVDPSMRKkVCilFL+oCe/UKSyFUFryBrIVeLzdbr42uu9WdkISCT2z++opBURYXl1m8RhPz3davvcg9sNlpQrueDL2WAbhvjPBfmbZ9np0a4B3eQc3W205/w5QPH0dCsdqoSERzW11ytwVrrXApTUdnH5CaVMxYtnuVqdwS6ZSqa02sqQJiJQqfky/iIWAOC/peYw6DP00QyMWYCv7TH1+bnp+/PHFq61cWTw/Ye30rcqmHpXqlSiCnDTilSeq1Ond7lRhVI1Npsv7q/rAJy7uO12yo25ktuCb08G71I0Pp2AHRjU79esuFy2TXCwInfrYdC8cKajAPiR+qJiB1cWTFXS+mS3CXhszQR5edO3NG7TMBF8OdaqByD4kwCqzvx8+fRha8Tqf2FM8OndvwzwvayxIVhlGzIqEIICQOCxp8rPoNSNQJhAUX4a7NVTf8BBOx21wQ57bbUZCOBSxgBAwD6LjQzEDEfhAV0l4OCBLTwZjsDz/8tIbKod1K3XtCHtJvh069erz5Q9unXpN23YDlPaDenX6aBRw9qNMAAg2K06QwAAAA==) format('woff2')}
+.f-mono{font-family:'HoloMono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace;font-weight:500}
+
+text{font-kerning:normal}
+.glow{filter:url(#glow)}
+.glow2{filter:url(#glow2)}
+.blink{animation:blink 1.6s steps(2,jump-none) infinite}
+.pulse{animation:pulse 3.2s ease-in-out infinite}
+.flick{animation:flick 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 36s linear infinite reverse}
+.beam{animation:beam 7s cubic-bezier(.45,0,.55,1) infinite}
+.shimmer{animation:shimmer 6s ease-in-out infinite}
+.dash{animation:dash 2.4s linear infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:.25}100%{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes flick{0%,6%,8%,10%,60%,62%,100%{opacity:1}7%,9%,61%{opacity:.72}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes beam{0%{transform:translateY(-12%);opacity:0}8%{opacity:1}70%{opacity:1}82%,100%{transform:translateY(105%);opacity:0}}
+@keyframes shimmer{0%,100%{transform:translateX(-120%)}55%,100%{transform:translateX(120%)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}
+
+.bsh{animation:bsh 5s ease-in-out -1.2s infinite}@keyframes bsh{0%{transform:translateX(-80px)}45%,100%{transform:translateX(340px)}}
+</style>
+<defs>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<linearGradient id="gStroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ef4ff"/><stop offset=".55" stop-color="#8b7bff" stop-opacity=".55"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="gCM" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3ef4ff"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="gMC" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3df2"/><stop offset="1" stop-color="#3ef4ff"/></linearGradient>
+<linearGradient id="gBeam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3ef4ff" stop-opacity="0"/><stop offset=".85" stop-color="#3ef4ff" stop-opacity=".07"/><stop offset=".985" stop-color="#bff9ff" stop-opacity=".28"/><stop offset="1" stop-color="#3ef4ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gShim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#9ff" opacity=".035"/></pattern>
+<pattern id="hex" width="27.71" height="48" patternUnits="userSpaceOnUse"><path d="M13.86 0L27.71 8V24L13.86 32L0 24V8Z M13.86 32V48" stroke="#3ef4ff" stroke-width=".6" opacity=".09"/></pattern>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#3ef4ff" opacity=".16"/></pattern>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2244"/><stop offset="1" stop-color="#02060f"/></linearGradient><clipPath id="bc"><path d="M14 2H258V62L246 74H2V14Z"/></clipPath>
+</defs>
+<path d="M14 2H258V62L246 74H2V14Z" fill="url(#bg)"/>
+<g clip-path="url(#bc)"><rect width="260" height="76" fill="url(#scan)"/><path d="M0 0h50l-40 76h-50z" fill="url(#gShim)" class="bsh"/></g>
+<path d="M14 2H258V62L246 74H2V14Z" stroke="url(#gStroke)" stroke-width="1.6"/>
+<path d="M2 26V14L14 2H28" stroke="#ff3df2" stroke-width="2.4"/>
+<rect x="16" y="16" width="44" height="44" rx="8" fill="#ff3df2" fill-opacity=".12" stroke="#ff3df2" stroke-opacity=".7"/>
+<g stroke="#ff3df2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M24 26h18v12h-10l-5 4v-4h-3z"/><path d="M46 31h6v12h-3v4l-5-4h-8v-3"/></g>
+<text x="74" y="36" class="f-disp" font-size="12" fill="#f4feff" letter-spacing="1.2">STACK OVERFLOW</text>
+<text x="74" y="57" class="f-mono" font-size="13.5" fill="#7fa6c4">users/10440572</text>
+<path d="M234 30l8 8-8 8" stroke="#ff3df2" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+<circle cx="244" cy="14" r="3" fill="#ff3df2" class="blink"/>
+</svg>

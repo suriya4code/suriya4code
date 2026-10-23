@@ -1,0 +1,380 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 732" width="1000" height="732" role="img" aria-labelledby="t d" fill="none">
+<title id="t">Systems matrix - tech stack</title>
+<desc id="d">Tech stack grouped into holographic modules. Core (starred): Python, C#/.NET, JavaScript, FastAPI, Flask/Flask-RESTX, .NET Web API, React, Angular/AngularJS, AWS, PyTest. Also TypeScript, Swift, Java, Bash, SQL, Node/Express, Django, Vue, Redux, SwiftUI, AWS Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS, Azure, Heroku, GitHub Actions, Docker, Kubernetes, Jenkins, MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, Tableau, pandas/NumPy, Playwright BDD, Vitest/RTL, XCTest, TDD, Prometheus, Grafana, Loki, CloudWatch, Azure App Insights, Claude Code, MCP, GitHub Copilot, LangChain, Ollama, ChromaDB, local RAG, Tesseract OCR.</desc>
+<style>
+@font-face{font-family:'HoloDisp6';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAASoAA8AAAAACowAAAROAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGjgbgXgcKgZgP1NUQVQqAGQRCAqLTIghATYCJANUCywABCAFVAcgG7IHAB6F6caXHQgj6RePgGAYQTyfh837SYq49QrpmkzXJ1gnASdYxD9/b85/dzvxCpYGlmahxKPhVQpYugWsFjogbjsP30oIoqGJlizY9K/9Vt2HVvHG0CmdSmrU3Y+Yxv9pkMxCIhIalaGqn1joFy15vlAvpJuzOSVtTH8UAc4Dls7/QATYAECIOIJh1ho9bvnd35RdYWpWvW5T3NNOQ/vj0gFflYqTboP7E4WppFN2Od9KTjrwVFVbU6111NtAqcYzhVksYBkb2ImiEwroTIrNEy1WHIeIy3tKbM6Lyx0iNvcJOy8oLsVnIuF7NJrhAysueXYTcrGbwsO4MGwSF1p5sfs3jeQlOx94+U405/vedVPk5Cc3iFl6W5MtMaB2ugTqDCJHFO7aMrUF+X/LUzlKZq3qcxxoIZ9xSjVTV+OZqboh6hjEE5CeOuvRc+gWEn6p7IWggLad2q1FuobA59M46RpqqevPNdcqeaGSuo76Gv9svnI0R3I4h3Iw+wnxV4TkPw+IBAC5QQbIBeQVAOgAFEUjFJHmGFeeCkY/xor3/UTbt83cuhdhxvuub7h+6eikKNORzobTVgxbt4wJ54rlTH3H0CdiY+47MqGb9pQGVt8bD2D8ovjN22D80Yum28KZOgTVa/z8Nr48a8o/LhpvsYe7W6jzbRnZbIrG1nlxNaRwvB6Xw+axHY3LXB+i8RaVN26Kw5m1DEs/5yqrjUXXY8w9U7kJoV6rl2HpZm+941JInEXXjrQ2dK+11QwXRiXyiWWZo5S7XSMszHwVjhi2eNi1Jg1Lp8EWgTy+7Uhvq1cfq6cjWnerVRurq3rgAlcuZtzKnBlzKL0Oyt0Ijgcn6gW1wu/3v48c0f/+7ajN7mezt5W5yhvdOdOtWTu5YpoVQb0TQa3JI/djnPNxWJ9VhZZHLWGSi13unDOJLXEkuFEuOE6eqREW9qV3ka8xIaWvajHajlPZD6/GEyO+MT9Mv31H6o7t6UOHMw+hudJkoTBferTfBgEzfYaZTN7tFLwacZVSV2Gevb9yT8yQUFt6Mky0tu/NQ6nrkS1bhpS8mnwpSAm1vsspOTjE3aYyDsUlL2sFJ+sGp7MjmKv8jhm6oofZsoVbODyisQ+Ry+/r9JewCw4EJ8oFBUfmjVqcA2ZaDt9SlQ0WBuWwtNQDoBA2w2LBYo9AXdIaXVGLabgcLepO1hpZrftYtbDWO/U4J1l1ZVrdyvUqT9VfH82522MzfpX5UWZW3eMOAP//vxGgVP7v0z+1g1f2a1RpLwDnNacQwHPuL8eEdt+ugQgKgOCDaH1EINWDEFdN6L6Ir6qUroqUqeKUrMqUbv9OdGNHlaek2xSsDJQqa1grYuiyFK8k3V7qyRVr38X7f8Vr2SoFs8sNCEhQmgZAiGOa3DTSi0ZxYWsI2Nx/TcOXVmPd9DBMX50M1kI3vfTQ01BNdNNPL5UN0FdXGgD+L1PYBAAAAA==) format('woff2')}
+.f-disp5{font-family:'HoloDisp6','Orbitron','Eurostile','Segoe UI',Arial,sans-serif;font-weight:600}
+@font-face{font-family:'HoloMono';font-weight:500;src:url(data:font/woff2;base64,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) format('woff2')}
+.f-mono{font-family:'HoloMono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace;font-weight:500}
+@font-face{font-family:'HoloSans';font-weight:500;src:url(data:font/woff2;base64,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) format('woff2')}
+.f-sans{font-family:'HoloSans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+
+text{font-kerning:normal}
+.glow{filter:url(#glow)}
+.glow2{filter:url(#glow2)}
+.blink{animation:blink 1.6s steps(2,jump-none) infinite}
+.pulse{animation:pulse 3.2s ease-in-out infinite}
+.flick{animation:flick 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 36s linear infinite reverse}
+.beam{animation:beam 7s cubic-bezier(.45,0,.55,1) infinite}
+.shimmer{animation:shimmer 6s ease-in-out infinite}
+.dash{animation:dash 2.4s linear infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:.25}100%{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes flick{0%,6%,8%,10%,60%,62%,100%{opacity:1}7%,9%,61%{opacity:.72}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes beam{0%{transform:translateY(-12%);opacity:0}8%{opacity:1}70%{opacity:1}82%,100%{transform:translateY(105%);opacity:0}}
+@keyframes shimmer{0%,100%{transform:translateX(-120%)}55%,100%{transform:translateX(120%)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}
+
+
+.mod{animation:float 7s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.chip{animation:chip 5s ease-in-out infinite}
+@keyframes chip{0%,100%{opacity:.55}12%{opacity:1}30%{opacity:.55}}
+.shim{animation:shim 9s ease-in-out infinite}
+@keyframes shim{0%{transform:translateX(-340px)}35%,100%{transform:translateX(1100px)}}
+
+</style>
+<defs>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<linearGradient id="gStroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ef4ff"/><stop offset=".55" stop-color="#8b7bff" stop-opacity=".55"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="gCM" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3ef4ff"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="gMC" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3df2"/><stop offset="1" stop-color="#3ef4ff"/></linearGradient>
+<linearGradient id="gBeam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3ef4ff" stop-opacity="0"/><stop offset=".85" stop-color="#3ef4ff" stop-opacity=".07"/><stop offset=".985" stop-color="#bff9ff" stop-opacity=".28"/><stop offset="1" stop-color="#3ef4ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gShim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#9ff" opacity=".035"/></pattern>
+<pattern id="hex" width="27.71" height="48" patternUnits="userSpaceOnUse"><path d="M13.86 0L27.71 8V24L13.86 32L0 24V8Z M13.86 32V48" stroke="#3ef4ff" stroke-width=".6" opacity=".09"/></pattern>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#3ef4ff" opacity=".16"/></pattern>
+<radialGradient id="pg1" cx=".3" cy=".1" r="1.1"><stop offset="0" stop-color="#0c2244"/><stop offset=".55" stop-color="#050d1f"/><stop offset="1" stop-color="#02060f"/></radialGradient>
+<clipPath id="pc2"><rect x="2" y="2" width="996" height="728" rx="18"/></clipPath>
+<linearGradient id="shimG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bff9ff" stop-opacity="0"/><stop offset=".5" stop-color="#bff9ff" stop-opacity=".10"/><stop offset="1" stop-color="#bff9ff" stop-opacity="0"/></linearGradient>
+<clipPath id="stkClip"><rect x="4" y="4" width="992" height="724" rx="16"/></clipPath>
+</defs>
+<rect x="2" y="2" width="996" height="728" rx="18" fill="url(#pg1)"/>
+<g clip-path="url(#pc2)">
+<rect x="2" y="2" width="996" height="728" fill="url(#hex)"/>
+<rect x="2" y="2" width="996" height="728" fill="url(#scan)"/>
+<rect x="2" y="2" width="996" height="255" fill="url(#gBeam)" class="beam rm-hide" style="animation-delay:-3.1s"/>
+</g>
+<rect x="2.75" y="2.75" width="994.5" height="726.5" rx="17.5" stroke="url(#gStroke)" stroke-width="1.5" opacity=".75"/>
+<rect x="8" y="8" width="984" height="716" rx="13" stroke="#3ef4ff" stroke-width=".6" opacity=".14"/>
+<path d="M12 34V12H34" stroke="#3ef4ff" stroke-width="2.2" stroke-linecap="square"/>
+<path d="M988 34V12H966" stroke="#ff3df2" stroke-width="2.2" stroke-linecap="square"/>
+<path d="M12 698V720H34" stroke="#ff3df2" stroke-width="2.2" stroke-linecap="square"/>
+<path d="M988 698V720H966" stroke="#3ef4ff" stroke-width="2.2" stroke-linecap="square"/>
+<path d="M32 2h413.6l-12 22H44z" fill="#3ef4ff" opacity=".12"/>
+<path d="M32 2.6h413.6l-12 22H44z" stroke="#3ef4ff" stroke-width="1" opacity=".55"/>
+<path d="M42 7l10 0l-6 11h-10z" fill="#ff3df2"/>
+<text x="60" y="18.5" class="f-mono" font-size="15" fill="#bff9ff" letter-spacing="2.2">02 // SYSTEMS MATRIX · TECH STACK</text>
+<polygon points="863,33 864.9,37.5 869.7,37.8 866,41 867.1,45.7 863,43.1 858.9,45.7 860,41 856.3,37.8 861.1,37.5" fill="#ff3df2" opacity="1"/><text x="960" y="45" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4" letter-spacing="0.5">core stack</text>
+<g class="mod" style="animation-delay:0.0s">
+<path d="M40.0 234.0l5 5h294.0v-150.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="34.0" y="72.0" width="300.0" height="162.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="34.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="34.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="5.0s" begin="0.0s" repeatCount="indefinite"/></rect>
+<path d="M44.0 110.0H324.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M56 86l-6 7 6 7M64 86l6 7-6 7M62 84l-4 18" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="99" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">LANGUAGES</text>
+<text x="318" y="99" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">08</text>
+<path d="M320.0 230.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="51.0" y="119.0" width="92.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="116.0" width="92.3" height="28" rx="4" fill="#0b3550"/>
+<rect x="50.0" y="116.0" width="92.3" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="50.0" y="116.0" width="92.3" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.21s"/>
+<polygon points="64,124 65.6,127.8 69.7,128.1 66.6,130.8 67.5,134.9 64,132.7 60.5,134.9 61.4,130.8 58.3,128.1 62.4,127.8" fill="#ff3df2" opacity="1"/>
+<text x="76" y="135.5" class="f-sans" font-size="16" fill="#f4feff">Python</text>
+<rect x="150.3" y="119.0" width="104.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="149.3" y="116.0" width="104.1" height="28" rx="4" fill="#0b3550"/>
+<rect x="149.3" y="116.0" width="104.1" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="149.3" y="116.0" width="104.1" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.42s"/>
+<polygon points="163.3,124 164.9,127.8 169,128.1 165.9,130.8 166.8,134.9 163.3,132.7 159.8,134.9 160.8,130.8 157.6,128.1 161.7,127.8" fill="#ff3df2" opacity="1"/>
+<text x="175.3" y="135.5" class="f-sans" font-size="16" fill="#f4feff">C# / .NET</text>
+<rect x="51.0" y="154.0" width="119.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="151.0" width="119.9" height="28" rx="4" fill="#0b3550"/>
+<rect x="50.0" y="151.0" width="119.9" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="50.0" y="151.0" width="119.9" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.23s"/>
+<polygon points="64,159 65.6,162.8 69.7,163.1 66.6,165.8 67.5,169.9 64,167.7 60.5,169.9 61.4,165.8 58.3,163.1 62.4,162.8" fill="#ff3df2" opacity="1"/>
+<text x="76" y="170.5" class="f-sans" font-size="16" fill="#f4feff">JavaScript</text>
+<rect x="177.9" y="154.0" width="105.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="176.9" y="151.0" width="105.9" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="186.9" y="170.5" class="f-sans" font-size="16" fill="#cfe9f7">TypeScript</text>
+<rect x="51.0" y="189.0" width="60.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="186.0" width="60.9" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Swift</text>
+<rect x="118.9" y="189.0" width="56.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="117.9" y="186.0" width="56.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="127.9" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Java</text>
+<rect x="182.7" y="189.0" width="58.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="181.7" y="186.0" width="58.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="191.7" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Bash</text>
+<rect x="247.7" y="189.0" width="49.2" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="246.7" y="186.0" width="49.2" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="256.7" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">SQL</text>
+</g>
+<g class="mod" style="animation-delay:-0.8s">
+<path d="M356.0 234.0l5 5h294.0v-150.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="350.0" y="72.0" width="300.0" height="162.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="350.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="350.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="6.3s" begin="-1.7s" repeatCount="indefinite"/></rect>
+<path d="M360.0 110.0H640.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M366.0 84h20v7h-20zM366.0 94h20v7h-20zM370.0 87.5h2M370.0 97.5h2" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="396" y="99" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">BACKEND</text>
+<text x="634" y="99" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">05</text>
+<path d="M636.0 230.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="367.0" y="119.0" width="93.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="366.0" y="116.0" width="93.4" height="28" rx="4" fill="#0b3550"/>
+<rect x="366.0" y="116.0" width="93.4" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="366.0" y="116.0" width="93.4" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.90s"/>
+<polygon points="380,124 381.6,127.8 385.7,128.1 382.6,130.8 383.5,134.9 380,132.7 376.5,134.9 377.4,130.8 374.3,128.1 378.4,127.8" fill="#ff3df2" opacity="1"/>
+<text x="392" y="135.5" class="f-sans" font-size="16" fill="#f4feff">FastAPI</text>
+<rect x="467.4" y="119.0" width="137.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="466.4" y="116.0" width="137.8" height="28" rx="4" fill="#0b3550"/>
+<rect x="466.4" y="116.0" width="137.8" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="466.4" y="116.0" width="137.8" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:1.12s"/>
+<polygon points="480.4,124 482,127.8 486.1,128.1 482.9,130.8 483.9,134.9 480.4,132.7 476.8,134.9 477.8,130.8 474.7,128.1 478.8,127.8" fill="#ff3df2" opacity="1"/>
+<text x="492.4" y="135.5" class="f-sans" font-size="16" fill="#f4feff">Flask / RESTX</text>
+<rect x="367.0" y="154.0" width="135.2" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="366.0" y="151.0" width="135.2" height="28" rx="4" fill="#0b3550"/>
+<rect x="366.0" y="151.0" width="135.2" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="366.0" y="151.0" width="135.2" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.93s"/>
+<polygon points="380,159 381.6,162.8 385.7,163.1 382.6,165.8 383.5,169.9 380,167.7 376.5,169.9 377.4,165.8 374.3,163.1 378.4,162.8" fill="#ff3df2" opacity="1"/>
+<text x="392" y="170.5" class="f-sans" font-size="16" fill="#f4feff">.NET Web API</text>
+<rect x="367.0" y="189.0" width="135.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="366.0" y="186.0" width="135.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="376" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Node / Express</text>
+<rect x="509.4" y="189.0" width="73.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="508.4" y="186.0" width="73.9" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="518.4" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Django</text>
+</g>
+<g class="mod" style="animation-delay:-1.6s">
+<path d="M672.0 234.0l5 5h294.0v-150.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="666.0" y="72.0" width="300.0" height="162.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="666.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="666.0" y="72.0" width="300.0" height="162.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="7.6s" begin="-3.4s" repeatCount="indefinite"/></rect>
+<path d="M676.0 110.0H956.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M682.0 84h20v17h-20zM682.0 89h20M685.0 86.5h1M688.0 86.5h1" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="712" y="99" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">FRONTEND</text>
+<text x="950" y="99" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">05</text>
+<path d="M952.0 230.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="683.0" y="119.0" width="81.5" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="116.0" width="81.5" height="28" rx="4" fill="#0b3550"/>
+<rect x="682.0" y="116.0" width="81.5" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="682.0" y="116.0" width="81.5" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:1.60s"/>
+<polygon points="696,124 697.6,127.8 701.7,128.1 698.6,130.8 699.5,134.9 696,132.7 692.5,134.9 693.4,130.8 690.3,128.1 694.4,127.8" fill="#ff3df2" opacity="1"/>
+<text x="708" y="135.5" class="f-sans" font-size="16" fill="#f4feff">React</text>
+<rect x="683.0" y="154.0" width="188.7" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="151.0" width="188.7" height="28" rx="4" fill="#0b3550"/>
+<rect x="682.0" y="151.0" width="188.7" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="682.0" y="151.0" width="188.7" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:1.62s"/>
+<polygon points="696,159 697.6,162.8 701.7,163.1 698.6,165.8 699.5,169.9 696,167.7 692.5,169.9 693.4,165.8 690.3,163.1 694.4,162.8" fill="#ff3df2" opacity="1"/>
+<text x="708" y="170.5" class="f-sans" font-size="16" fill="#f4feff">Angular / AngularJS</text>
+<rect x="878.7" y="154.0" width="49.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="877.7" y="151.0" width="49.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="887.7" y="170.5" class="f-sans" font-size="16" fill="#cfe9f7">Vue</text>
+<rect x="683.0" y="189.0" width="69.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="186.0" width="69.0" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">Redux</text>
+<rect x="759.0" y="189.0" width="75.6" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="758.0" y="186.0" width="75.6" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="768" y="205.5" class="f-sans" font-size="16" fill="#cfe9f7">SwiftUI</text>
+</g>
+<g class="mod" style="animation-delay:-2.4s">
+<path d="M40.0 377.0l5 5h610.0v-115.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="34.0" y="250.0" width="616.0" height="127.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="34.0" y="250.0" width="616.0" height="127.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="34.0" y="250.0" width="616.0" height="127.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="5.0s" begin="-5.1s" repeatCount="indefinite"/></rect>
+<path d="M44.0 288.0H640.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M55 278a5 5 0 0 1 0-10a7 7 0 0 1 13 1a4.5 4.5 0 0 1 0 9z" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="277" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">CLOUD</text>
+<text x="634" y="277" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">10</text>
+<path d="M636.0 373.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="51.0" y="297.0" width="70.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="294.0" width="70.0" height="28" rx="4" fill="#0b3550"/>
+<rect x="50.0" y="294.0" width="70.0" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="50.0" y="294.0" width="70.0" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:0.35s"/>
+<polygon points="64,302 65.6,305.8 69.7,306.1 66.6,308.8 67.5,312.9 64,310.7 60.5,312.9 61.4,308.8 58.3,306.1 62.4,305.8" fill="#ff3df2" opacity="1"/>
+<text x="76" y="313.5" class="f-sans" font-size="16" fill="#f4feff">AWS</text>
+<rect x="128.0" y="297.0" width="81.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="127.0" y="294.0" width="81.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="137" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">Lambda</text>
+<rect x="216.4" y="297.0" width="138.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="215.4" y="294.0" width="138.0" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="225.4" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">Step Functions</text>
+<rect x="361.4" y="297.0" width="104.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="360.4" y="294.0" width="104.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="370.4" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">DynamoDB</text>
+<rect x="472.8" y="297.0" width="114.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="471.8" y="294.0" width="114.9" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="481.8" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">EventBridge</text>
+<rect x="594.7" y="297.0" width="39.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="593.7" y="294.0" width="39.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="603.7" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">S3</text>
+<rect x="51.0" y="332.0" width="112.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="329.0" width="112.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">Glue / Spark</text>
+<rect x="170.3" y="332.0" width="91.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="169.3" y="329.0" width="91.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="179.3" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">EKS / ECS</text>
+<rect x="269.1" y="332.0" width="63.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="268.1" y="329.0" width="63.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="278.1" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">Azure</text>
+<rect x="339.9" y="332.0" width="74.5" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="338.9" y="329.0" width="74.5" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="348.9" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">Heroku</text>
+</g>
+<g class="mod" style="animation-delay:-3.2s">
+<path d="M672.0 377.0l5 5h294.0v-115.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="666.0" y="250.0" width="300.0" height="127.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="666.0" y="250.0" width="300.0" height="127.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="666.0" y="250.0" width="300.0" height="127.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="6.3s" begin="-6.8s" repeatCount="indefinite"/></rect>
+<path d="M676.0 288.0H956.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M692.0 271c-3-5-10-5-10 0s7 5 10 0 10-5 10 0-7 5-10 0z" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="712" y="277" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">DEVOPS</text>
+<text x="950" y="277" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">04</text>
+<path d="M952.0 373.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="683.0" y="297.0" width="135.7" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="294.0" width="135.7" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">GitHub Actions</text>
+<rect x="825.7" y="297.0" width="74.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="824.7" y="294.0" width="74.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="834.7" y="313.5" class="f-sans" font-size="16" fill="#cfe9f7">Docker</text>
+<rect x="683.0" y="332.0" width="109.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="329.0" width="109.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">Kubernetes</text>
+<rect x="799.8" y="332.0" width="80.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="798.8" y="329.0" width="80.0" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="808.8" y="348.5" class="f-sans" font-size="16" fill="#cfe9f7">Jenkins</text>
+</g>
+<g class="mod" style="animation-delay:-4.0s">
+<path d="M40.0 520.0l5 5h610.0v-115.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="34.0" y="393.0" width="616.0" height="127.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="34.0" y="393.0" width="616.0" height="127.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="34.0" y="393.0" width="616.0" height="127.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="7.6s" begin="-8.5s" repeatCount="indefinite"/></rect>
+<path d="M44.0 431.0H640.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M51 408a9 3 0 0 0 18 0a9 3 0 0 0-18 0v12a9 3 0 0 0 18 0V408M51 414a9 3 0 0 0 18 0" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="420" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">DATA</text>
+<text x="634" y="420" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">08</text>
+<path d="M636.0 516.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="51.0" y="440.0" width="130.6" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="437.0" width="130.6" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">MS SQL Server</text>
+<rect x="188.6" y="440.0" width="95.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="187.6" y="437.0" width="95.0" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="197.6" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">MongoDB</text>
+<rect x="290.6" y="440.0" width="110.2" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="289.6" y="437.0" width="110.2" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="299.6" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">PostgreSQL</text>
+<rect x="407.8" y="440.0" width="69.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="406.8" y="437.0" width="69.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="416.8" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">Oracle</text>
+<rect x="483.9" y="440.0" width="86.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="482.9" y="437.0" width="86.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="492.9" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">Redshift</text>
+<rect x="51.0" y="475.0" width="104.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="472.0" width="104.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">DynamoDB</text>
+<rect x="162.3" y="475.0" width="81.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="161.3" y="472.0" width="81.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="171.3" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">Tableau</text>
+<rect x="250.7" y="475.0" width="145.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="249.7" y="472.0" width="145.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="259.7" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">pandas / NumPy</text>
+</g>
+<g class="mod" style="animation-delay:-4.8s">
+<path d="M672.0 520.0l5 5h294.0v-115.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="666.0" y="393.0" width="300.0" height="127.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="666.0" y="393.0" width="300.0" height="127.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="666.0" y="393.0" width="300.0" height="127.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="5.0s" begin="-10.2s" repeatCount="indefinite"/></rect>
+<path d="M676.0 431.0H956.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M692.0 404l9 3v6c0 5-4 9-9 11-5-2-9-6-9-11V407zM688.0 414l3 3 5-6" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="712" y="420" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">TESTING</text>
+<text x="950" y="420" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">05</text>
+<path d="M952.0 516.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="683.0" y="440.0" width="90.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="437.0" width="90.0" height="28" rx="4" fill="#0b3550"/>
+<rect x="682.0" y="437.0" width="90.0" height="28" rx="4" fill="#3ef4ff" fill-opacity=".16"/>
+<rect x="682.0" y="437.0" width="90.0" height="28" rx="4" stroke="#3ef4ff" stroke-width="1.3" class="chip" style="animation-delay:1.86s"/>
+<polygon points="696,445 697.6,448.8 701.7,449.1 698.6,451.8 699.5,455.9 696,453.7 692.5,455.9 693.4,451.8 690.3,449.1 694.4,448.8" fill="#ff3df2" opacity="1"/>
+<text x="708" y="456.5" class="f-sans" font-size="16" fill="#f4feff">PyTest</text>
+<rect x="780.0" y="440.0" width="139.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="779.0" y="437.0" width="139.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="789" y="456.5" class="f-sans" font-size="16" fill="#cfe9f7">Playwright BDD</text>
+<rect x="683.0" y="475.0" width="108.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="472.0" width="108.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">Vitest / RTL</text>
+<rect x="798.8" y="475.0" width="75.0" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="797.8" y="472.0" width="75.0" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="807.8" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">XCTest</text>
+<rect x="880.9" y="475.0" width="50.7" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="879.9" y="472.0" width="50.7" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="889.9" y="491.5" class="f-sans" font-size="16" fill="#cfe9f7">TDD</text>
+</g>
+<g class="mod" style="animation-delay:-5.6s">
+<path d="M40.0 698.0l5 5h610.0v-150.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="34.0" y="536.0" width="616.0" height="162.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="34.0" y="536.0" width="616.0" height="162.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="34.0" y="536.0" width="616.0" height="162.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="6.3s" begin="-11.9s" repeatCount="indefinite"/></rect>
+<path d="M44.0 574.0H640.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M60 547v20M50 557h20M53 550l14 14M67 550l-14 14" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="563" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">AI · AGENTIC</text>
+<text x="634" y="563" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">08</text>
+<path d="M636.0 694.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="51.0" y="583.0" width="116.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="580.0" width="116.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">Claude Code</text>
+<rect x="174.8" y="583.0" width="53.9" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="173.8" y="580.0" width="53.9" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="183.8" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">MCP</text>
+<rect x="235.8" y="583.0" width="132.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="234.8" y="580.0" width="132.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="244.8" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">GitHub Copilot</text>
+<rect x="375.2" y="583.0" width="101.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="374.2" y="580.0" width="101.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="384.2" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">LangChain</text>
+<rect x="483.5" y="583.0" width="71.1" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="482.5" y="580.0" width="71.1" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="492.5" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">Ollama</text>
+<rect x="51.0" y="618.0" width="100.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="50.0" y="615.0" width="100.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="60" y="634.5" class="f-sans" font-size="16" fill="#cfe9f7">ChromaDB</text>
+<rect x="158.4" y="618.0" width="91.6" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="157.4" y="615.0" width="91.6" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="167.4" y="634.5" class="f-sans" font-size="16" fill="#cfe9f7">local RAG</text>
+<rect x="257.0" y="618.0" width="132.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="256.0" y="615.0" width="132.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="266" y="634.5" class="f-sans" font-size="16" fill="#cfe9f7">Tesseract OCR</text>
+<text x="50" y="680" class="f-sans" font-size="15" fill="#7fa6c4">AI-driven dev loop: agents wired to codebases, tools and data via MCP</text>
+</g>
+<g class="mod" style="animation-delay:-6.4s">
+<path d="M672.0 698.0l5 5h294.0v-150.0l-5-5" fill="#0a5a7a" opacity=".35"/>
+<rect x="666.0" y="536.0" width="300.0" height="162.0" rx="10" fill="#081a33" fill-opacity=".72"/>
+<rect x="666.0" y="536.0" width="300.0" height="162.0" rx="10" stroke="#3ef4ff" stroke-width="1" opacity=".38"/>
+<rect x="666.0" y="536.0" width="300.0" height="162.0" rx="10" stroke="#bff9ff" stroke-width="2" pathLength="100" stroke-dasharray="7 93" stroke-linecap="round" class="glow"><animate attributeName="stroke-dashoffset" values="0;-100" dur="7.6s" begin="-13.6s" repeatCount="indefinite"/></rect>
+<path d="M676.0 574.0H956.0" stroke="url(#gCM)" stroke-width="1" opacity=".5"/>
+<path d="M682.0 557h5l3-7 4 14 3-7h5" stroke="#3ef4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="712" y="563" class="f-disp5" font-size="15" fill="#bff9ff" letter-spacing="2">OBSERVABILITY</text>
+<text x="950" y="563" class="f-mono" font-size="13" text-anchor="end" fill="#7fa6c4">05</text>
+<path d="M952.0 694.0h10v-10" stroke="#ff3df2" stroke-width="1.5" opacity=".7"/>
+<rect x="683.0" y="583.0" width="113.5" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="580.0" width="113.5" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">Prometheus</text>
+<rect x="803.5" y="583.0" width="81.3" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="802.5" y="580.0" width="81.3" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="812.5" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">Grafana</text>
+<rect x="891.8" y="583.0" width="51.5" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="890.8" y="580.0" width="51.5" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="900.8" y="599.5" class="f-sans" font-size="16" fill="#cfe9f7">Loki</text>
+<rect x="683.0" y="618.0" width="114.4" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="615.0" width="114.4" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="634.5" class="f-sans" font-size="16" fill="#cfe9f7">CloudWatch</text>
+<rect x="683.0" y="653.0" width="164.8" height="28" rx="4" fill="#000" opacity=".35"/>
+<rect x="682.0" y="650.0" width="164.8" height="28" rx="4" fill="#081d36" stroke="#3ef4ff" stroke-width=".8" stroke-opacity=".35"/>
+<text x="692" y="669.5" class="f-sans" font-size="16" fill="#cfe9f7">Azure App Insights</text>
+</g>
+<g clip-path="url(#stkClip)"><path d="M0 0h120l-120 732h-120z" fill="url(#shimG)" class="shim rm-hide"/></g>
+</svg>

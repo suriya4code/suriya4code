@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140" role="img" aria-labelledby="t d">
+<title id="t">Stack Overflow: users/10440572</title><desc id="d">Drafting tag button linking to Stack Overflow (users/10440572).</desc>
+<defs>
+<pattern id="tg10" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#A8D8FF" stroke-opacity=".08" stroke-width=".6"/></pattern>
+</defs>
+<style>@font-face{font-family:'SG7';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAATUAA8AAAAACQQAAAR8AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbgwwcKgZgP1NUQVQqAGwRCAqHbIYcATYCJAM4Cx4ABCAFTAcgGw8HQC4G7Ib6oggyLKYsL45nvcThRa2L5x/HXs99SYFRiQ5Q1slv3ebICAI3I+NDeflvNqkmq8IprJRi9hs8ATiLRKyNxvOqYGuGYjNEQenaBYOYRT6mb+XLl7r/M6//FldCgbN0Qp/QD8BYAP///73T31hWNKyOBx6GeF/zvdo0N/W1sURLMKAxpkb7eCexThhgIBw4pW6M+UyisqP/r08I+m8WLAJKU7qYtiCWLIlg3iVvkjEuJQfyvbKnDXIdRosgW21XGzQRRFdmlXmPiG0spl0ThAolSEBMizJjwaIlUyov81jIwmJellKIZCGSl0gK5T2w+Ix/WDQDo2CsFh+MAsbsZYQd4wDGx7TTaf7rwGt+JSnjZ3lIvtWZXQBdvKCbF6MMXuVE/BjllyhLSPJFMT193pyOKc2MBbM3KVjwa4OmmzYlmHfN8WvwjCowuRd/yWlQox6kAPCC6skC79gAqvEjHibAR5zKbx/9f0a/iC0gkL/kNMApRsSsYBPBIclR39BDgBJIlZwGoNCwiRFsYj2CdUqMcipKtDgp0uXIT7CKYiULs+S9Q37nZ6eH+7s7CJwqkpYCsQwOwQZkAPICQO+DJSej2Hm2Xim11WQtpVSmLpcbUj9NTWXlzAdETcw52awU/U5olWxWTBgxotKZAeoO82eeJeKUmzXGxCiPiKqD4bZdRJzQmSNgvhHzh9ys9AJMtOO2eouXAwsrV0rzaE4xV0SjMwhsmtGbZnRmApOUm5UTwmGScGoyLGoNGi475hIEcNXU0kOtVrEyhIKJJC9CZTyYCg5NjgbiyPxVdoESZioVe8SIrgNlM/dqsMkmN/3tH+gWr12b3biZsYOUfMPP7j4jIJpCiQLzlSvjSrlyrkTSaA1pGS2xFAsbaqvsq6qzMOXq4lduGdIe+j+0PYTS12bxAt8ckrzOwPrM38PP/hibrrex/WytLNJzd49Ks/H0TPYMdGYc7rwYPLxpQqHA+rtTHyCZbrfi96AY3dM5OTpI7lTY/Gnbp5WjqsTZs4fVVWh4THp8XHpu0u7E9Ly4+JiMMB2VfHj2bAjfiwPh26wHrPfEDKhZxwd8d/ADvA2Nmmyg80Z/h02BW9Xej6Y6vC0nJnIAmd1kKjh01slixqTepMzchP0J8CQlZgGAxj+Ep1Dp5pcdJI0IST2g03nQ+f3kO0ZzzI5rTrAegjN19vZcC9+lzOGg2OYUXsVHpIZHxwh+zmbMhxs18Yo6T//0yMjQojbP5OQeb6EmxVxl7vhqqWPobAeTTfnLa5IUbV5hmZG8UEWfP97F3B7gB27H4PKBU9MX1ckLni42wtB8alJ0uU5++TtgHeBJhtC7wladdH8AHyoExemXht/litBvmo35BPxcbb0C4D9+/sL6GGs1jC9gWoHwR7C3j5+PrQGCybJvmXL/qRM6NRm8yxlCMXgYXQxzstnKGPiYMlhXCoyqCTpNBeYIlr3FgqBJzT1GqhbKMpoCgUXLX4nFrH1ZatXr1aJSl3y1GtVr0EPQrkUNBhg0bwAA) format('woff2')}
+@font-face{font-family:'JB5';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAARUAA8AAAAAB1gAAAP7AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAbBEICocEhVMBNgIkAxwLHAAEIAV+ByAbhgVRlE3OOwC+OrCNaQ/9BRhBWtvaNUvcOGywKDh437IwlMSQzy2KOXiedOr7JymgkxxgdIiLaBdRSYmmeCvwxDR35K0dicd2RDAx474LU5uwTOe2WWrTIYYiQ/U/+c8OwBhwsBzqgvTImLtaMkP96l7KO6LRsiVGhXdIsO7rzP+5dFHeWJxiQ0xr3Btt14D3SU/wwLI8ikc3ogM+wAOgqZ4pc0gcYtPZHE5VIYADACgEwUQQwCZTNhkYOX46UZgA4XAAwFGKlVLj+QYXbVpDKhNmv6lmy1csULtbEBi3Xi7zqU8PKIhmsgo1GHvAHbk29+9/wPgrlYAAqGL1EshlIQhRKCCRAgqprStWbhLg80vNJQbBJJUCEEu+gtwDFQQMBCWxAAgACjCARAYCJDIJglixDCBXPb9my2y0+VnpGo3Ihu84wo89csJBBxLAB96gsYggEkHCigEEF4B0EAfp0hAAbJrBQCEIbJDyKZiGkW4nV8XH+xyd4RREm9pyzcWutdRzFu3WU5FQPdN7+AQchq/ekxn68eM5EpK9GxCYpdHTQ7QM7C3o5QflLWbro6HBlJA3zZSE57TBDPvYsDHRGO7+GSTDsB1aYmgVIPhKgOCE4RiFxzP3lB/XHpcxsNsltPSeybBp0dZ0CWhToyXwqNLoAvvZCbZsmz7dxRVHVuilaNEJtmbqkxHRc1iwU+05Ls50XXoV2+1Z2rOxxWWUuTPG6G2zXy+8nFe3Jpb/V2wNUEG9dI8bV0x6/TGlUGvSe9IAypRnQzptq5ms9dAjtroY6hmJWCkSSpRSyh8sLy4UqWxF0BqyBnKV+HydLr72+2/a5gBSKw7O76ikFRFheXWbxGE/3RhpB9ypow2WlCu54MvZYL2D/OeS4s2z/Oxo14Ce68wcb7Tn/DlAufTmVjpUCQmPGhqvW3FWutcCVNAu5fITSpmKF89ytTqDXTKVTGm1lSFNRKBS82X8RSwAwH/LLGDQZ+ijGRizgMDCx8x7Bzdf2r5zx8mFzPDeP/hrfauCqb9NpRJVgP2tqTxXp07vcqMKpWpsNl9c6l4MOHhk1LmM09sqbkveXfcuUCa+OQGb4un3G1ovm0cJDloLtx488/D+xSXAj8z7NWO4smCqktYnu03ANWtL2PNenqz8u17/EBF8ua5VD0D4IwFUk/n54GbyAnzHt6jkAK8eXjoG8J5Xv/WGD6t8Q0YFIlAACDz2VAUZlKYRCBMoKshsEy2vP2CqsWbqNcZEIw0AAVyqGAAI2GfRx0DMaBQ+0FUCDj7YwtPhGLz4v4zFpt5Uy6yw2aBFNghYZpUVVtpkgmWWWmWzIWNsssigVZaYaq0hi6xhAEB4mfoMAQAAAA==) format('woff2')}
+text{font-kerning:normal}
+.h{font-family:'SG7','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+.b{font-family:'SG5','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+.m{font-family:'JB5','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:500}
+.mb{font-family:'JB7','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:750}
+.ink{fill:none;stroke:#EEF6FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ink2{fill:none;stroke:#B9D4EE;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#B9D4EE;stroke-width:.8}
+.cy{fill:none;stroke:#72E4FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.cl{fill:none;stroke:#72E4FF;stroke-opacity:.55;stroke-width:.8;stroke-dasharray:16 4 3 4}
+.hid{fill:none;stroke:#B9D4EE;stroke-opacity:.6;stroke-width:1;stroke-dasharray:5 4}
+.con{fill:none;stroke:#4F80B3;stroke-opacity:.55;stroke-width:.8}
+.dimL{fill:none;stroke:#B9D4EE;stroke-width:.9}
+.ah{fill:#B9D4EE}
+.draw{stroke-dasharray:1 1;animation:draw var(--d,1.4s) cubic-bezier(.55,.1,.25,1) var(--t,0s) both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.fade{animation:fade var(--d,.6s) ease var(--t,0s) both}
+@keyframes fade{from{opacity:.22}}
+.rise{animation:rise var(--d,.7s) cubic-bezier(.2,.8,.2,1) var(--t,0s) both}
+@keyframes rise{from{opacity:.22;transform:translateY(10px)}}
+.spin{animation:spin var(--p,20s) linear infinite}
+.spinr{animation:spin var(--p,20s) linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.blink{animation:blink var(--p,2s) ease-in-out var(--t,0s) infinite}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}
+.sw{transform-origin:62px 70px;animation:sw 4.5s ease-in-out infinite}@keyframes sw{0%,100%{transform:rotate(-1.2deg)}50%{transform:rotate(1.2deg)}}.str{animation:str 4.5s ease-in-out infinite}@keyframes str{0%,100%{d:path("M8 40C24 44 40 58 56 68")}50%{d:path("M8 44C24 40 42 56 56 68")}}</style>
+<path d="M8 40C24 44 40 58 56 68" fill="none" stroke="#5A8FC4" stroke-width="2.4" stroke-linecap="round" class="str"/>
+<g class="sw"><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="#0B2E55" stroke="#EEF6FF" stroke-width="2"/><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="url(#tg10)"/><path d="M54 30H448a10 10 0 0 1 10 10V100a10 10 0 0 1 -10 10H54" fill="none" stroke="#B9D4EE" stroke-opacity=".45" stroke-dasharray="4 4"/><circle cx="62" cy="70" r="13" fill="none" stroke="#B9D4EE" stroke-width="2"/><circle cx="62" cy="70" r="7" fill="#04182E" stroke="#EEF6FF" stroke-width="1.6"/><g fill="none" stroke="#72E4FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M98 56h24v16h-14l-6 6v-6h-4z"/><path d="M126 64h12v16h-4v6l-6-6h-10v-6"/><path d="M104 62h12M104 67h8"/></g><text x="160" y="66" class="h" font-size="24" fill="#EEF6FF" letter-spacing="0.6">STACK OVERFLOW</text><text x="160" y="94" class="m" font-size="17" fill="#72E4FF">users/10440572</text><path d="M412 52l16 18l-16 18" fill="none" stroke="#FFC95C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

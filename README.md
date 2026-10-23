@@ -1,172 +1,122 @@
 <div align="center">
 
-<img src="https://github.com/suriya4code/suriya4code/blob/master/gifs/Hi.gif" width="32" height="32" alt="wave" />
+<img src="assets/blueprint/hero.svg" width="100%" alt="Blueprint title sheet: Suriyaprakash Palanisamy, Senior Software Engineer. A meshing gear train, a nod to his mechanical engineering degree, drives a lantern wheel whose pins are graph nodes. An encoder turns the motion into a signal that flows through a node graph to FastAPI, AWS EKS/ECS and ML forecasting.">
 
-# Suriyaprakash Palanisamy
+<b>Suriyaprakash Palanisamy</b> · Senior Software Engineer<br>
+Backend · Cloud · ML platforms · AI-driven development<br>
+<sub>10+ years across the full SDLC. Now building FastAPI microservices on AWS EKS/ECS that serve ML forecasting models at Freddie Mac (McLean, VA). Mechanical engineer by degree: from gears to graphs.</sub>
 
-### Senior Software Engineer @ Capital One · McLean, VA
+<a href="https://www.linkedin.com/in/suriyaprakashp/">LinkedIn</a> ·
+<a href="https://stackoverflow.com/users/10440572/suriya-prakash">Stack Overflow</a> ·
+<a href="https://hub.docker.com/u/suriya4code">Docker Hub</a> ·
+<a href="mailto:suriya4code@gmail.com">suriya4code@gmail.com</a>
 
-<a href="https://github.com/suriya4code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+reliable%2C+scalable+backend+systems;Python+%7C+TypeScript+%7C+Swift+%7C+Java+%7C+Rust;Cloud-native+services+%E2%80%A2+APIs+%E2%80%A2+Applied+AI" alt="Typing SVG" />
-</a>
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/suriyaprakashp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/10440572/suriya-prakash"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://hub.docker.com/u/suriya4code"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
-  <a href="mailto:suriya4code@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="assets/blueprint/specs.svg" width="100%" alt="Who I am: 10+ years across the full SDLC; a platform of 50+ AWS microservices he contributed to; a 3,000-line Python backend refactored to about 1,000 lines with 20% better performance; PyTest coverage above 85% on new code; five domains: finance, healthcare, retail, pharma and insurance.">
 
-</div>
+<br>
 
----
+<img src="assets/blueprint/bom.svg" width="100%" alt="Tech stack as a bill of materials. Languages: Python, C#/.NET, JavaScript (primary), TypeScript, Swift, Java, Bash, SQL. Backend: FastAPI, Flask/Flask-RESTX, .NET Web API/Core (primary), Node/Express, Django. Frontend: React, Angular (primary), Vue, Redux, SwiftUI. AI: Claude Code, MCP, Copilot, local RAG, Tesseract OCR. Data: MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy. DevOps: GitHub Actions, Docker, Kubernetes, Jenkins. Cloud: AWS (primary) incl. Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS; Azure; Heroku. Testing: PyTest (primary), Playwright BDD, Vitest/RTL, XCTest, TDD. Observability: Prometheus, Grafana, Loki, CloudWatch, Azure App Insights.">
 
-## 👨‍💻 About Me
+<br>
 
-- 🏦 **Senior Software Engineer at Capital One**, designing and shipping reliable, scalable backend systems.
-- ⚙️ Full-stack range — **Python / FastAPI** services, **TypeScript / React** frontends, and native apps.
-- 🔐 Author of **[PangoLock](https://github.com/suriya4code/PangoLock)** — a zero-knowledge, AES-256 macOS encryption app built in **SwiftUI**.
-- 🤖 Exploring **LLMs & RAG** and applied AI for real-world developer tooling.
-- 💬 Ask me about **Python, distributed services, cloud, and clean API design**.
-- 📫 Reach me anytime at **suriya4code@gmail.com**.
+<a href="https://github.com/suriya4code/PangoLock"><img src="assets/blueprint/pangolock.svg" width="100%" alt="PangoLock, zero-knowledge folder vault for macOS, as an exploded isometric drawing: password, PBKDF2-HMAC-SHA256 with 210,000 iterations, master key with zero-knowledge verifier, HKDF-SHA256 per-item key, AES-256-GCM, atomic write of a .plock file, decrypt-and-compare, original removed, vault locked. 87 XCTest tests, CI on macOS, written threat model."></a>
 
----
+<sub><a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a> · Swift / SwiftUI · macOS 13+ · MIT · v0.2.1 (pre-1.0) · verify-before-delete, atomic writes, crash-window tests, recovery key, portable lockers, encrypted sharing</sub>
 
-## 🛠️ Tech Stack
+<br>
 
-**Languages**
+<a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><img src="assets/blueprint/rag.svg" width="100%" alt="RAG PDF Genie: ask a 115-page IRS PDF questions with a fully local LLM. The PDF is chunked, embedded with nomic-embed-text and stored in ChromaDB; rewritten queries (multi-query retriever) retrieve context; llama3.2 in Ollama writes an answer grounded only in that context. No API keys; the document never leaves the machine."></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</p>
+<sub><a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><b>RAG PDF Genie</b></a> · Python · LangChain · Ollama (llama3.2 + nomic-embed-text) · ChromaDB · Streamlit · multi-query retriever, grounded prompt</sub>
 
-**Backend & Frameworks**
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</p>
+<a href="https://github.com/suriya4code/tesseract-ocr"><img src="assets/blueprint/ocr.svg" width="49%" alt="OCR trilogy: one Tesseract engine, three deployments. FastAPI on Heroku (2020), Flask-RESTX on Docker Hub (2021), Flask web UI with Heroku and Azure CD (2022)."></a>
+<a href="https://github.com/suriya4code/express_js_prometheus"><img src="assets/blueprint/obs.svg" width="49%" alt="Express observability lab: an Express CRUD API instrumented with a prom-client request counter and latency histogram by method, route and status, plus winston-loki logs; Prometheus, Grafana and Loki run from Docker Compose. Dashboard drawing is illustrative."></a>
 
-**Frontend**
+<sub><b>OCR trilogy</b>: <a href="https://github.com/suriya4code/tesseract-ocr">tesseract-ocr</a> (2020) → <a href="https://github.com/suriya4code/tesseract-flask">tesseract-flask</a> (2021) → <a href="https://github.com/suriya4code/tesseract-pillow">tesseract-pillow</a> (2022) · <b>Observability</b>: <a href="https://github.com/suriya4code/express_js_prometheus">express_js_prometheus</a></sub>
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+<br>
 
-**Data & AI**
+<a href="https://github.com/suriya4code/python-microservice"><img src="assets/blueprint/k8s.svg" width="100%" alt="Containers and Kubernetes: a Flask API running as five replica pods behind a LoadBalancer Service on Minikube, with images published to Docker Hub (suriya4code/python-flask-microservice and suriya4code/flask-ocr). The same pattern as EKS and ECS at work."></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<sub><a href="https://github.com/suriya4code/python-microservice"><b>python-microservice</b></a> · Docker Hub: <a href="https://hub.docker.com/r/suriya4code/python-flask-microservice">python-flask-microservice</a> · <a href="https://hub.docker.com/r/suriya4code/flask-ocr">flask-ocr</a></sub>
 
-**DevOps & Cloud**
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<img src="assets/blueprint/stars.svg" width="100%" alt="Repo constellation: smaller repositories grouped into five themes: FastAPI patterns, Frontend and 3D, Containers, DSA galaxy and Tools.">
 
-**Databases**
+<sub>
+<b>FastAPI patterns</b> <a href="https://github.com/suriya4code/fastapi_practices">fastapi_practices</a> · <a href="https://github.com/suriya4code/fastapi_sql_aws_base">fastapi_sql_aws_base</a><br>
+<b>Frontend &amp; 3D</b> <a href="https://github.com/suriya4code/Babylon_Vue">Babylon_Vue</a> · <a href="https://github.com/suriya4code/react-basics-rejuvenation">react-basics-rejuvenation</a> · <a href="https://github.com/suriya4code/AngularInMemoryCompanyAdmin">AngularInMemoryCompanyAdmin</a><br>
+<b>Containers</b> <a href="https://github.com/suriya4code/flask_mongo_dockerized">flask_mongo_dockerized</a> · <a href="https://github.com/suriya4code/heroku_deploy_flask">heroku_deploy_flask</a><br>
+<b>DSA galaxy</b> <a href="https://github.com/suriya4code/dsa_algo">dsa_algo</a> · <a href="https://github.com/suriya4code/blind_leetcode_python">blind_leetcode_python</a> · <b>Tools</b> <a href="https://github.com/suriya4code/github-stats">github-stats</a>
+</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server" />
-</p>
+<br>
 
----
+<img src="assets/blueprint/career.svg" width="100%" alt="Career as a revision history, latest first. Rev J, Jul 2026 to now: Freddie Mac, FastAPI microservices on AWS EKS/ECS serving ML forecasting models. Rev H, May 2025 to Jul 2026: Capital One, platform of 50+ AWS microservices and an event-driven serverless pipeline. Rev G, Jan 2023 to May 2025: Freddie Mac, led the backend team. Rev F, Apr 2022 to Jan 2023: Agero, FastAPI on AWS Lambda from scratch. Rev E, May 2019 to Apr 2022: Humana, led the backend agile team, Tesseract OCR services. Rev D, Jun 2018 to May 2019: McKesson. Rev C, Sep 2017 to May 2018: Woolworths, Sydney. Rev B, Jan 2016 to Aug 2017: CVS Health, led API development. Rev A, 2015: BE Mechanical Engineering, Anna University.">
 
-## 🚀 Featured Projects
+<br>
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Stack</th>
-      <th align="left">What it does</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/SwiftUI-0071E3?logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
-      </td>
-      <td valign="top">🫆🔐 Zero-knowledge, AES-256 folder encryption for macOS — portable lockers, encrypted sharing &amp; recovery. Open source &amp; 100% free.</td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM"><b>RAG PDF Genie</b></a>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Local_LLM-1C3C3C?logo=ollama&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-FF6F00" />
-      </td>
-      <td valign="top">🤖 Chat with your PDFs fully offline — a Retrieval-Augmented Generation pipeline powered by a local LLM. Private by design.</td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/suriya4code/express_js_prometheus"><b>Express + Prometheus</b></a>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-        <img src="https://img.shields.io/badge/Loki-F5A800?logo=grafana&logoColor=white" />
-      </td>
-      <td valign="top">📈 Express.js CRUD API instrumented with Prometheus metrics, Loki logs and Grafana dashboards — a hands-on observability stack.</td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/suriya4code/github-stats"><b>github-stats</b></a>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-      </td>
-      <td valign="top">📊 A Python tool that generates a dynamic pie chart of any user's GitHub language stats.</td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/blueprint/ai.svg" width="100%" alt="AI-driven development: Claude Code runs a plan, code, test, review loop, connected over MCP to the codebase, tools and data, with Copilot in the editor, and tests and human review in the loop. Certifications: Claude Code in Action, Introduction to Model Context Protocol and Claude 101 (Anthropic, Aug 2026); AZ-204 Azure Developer Associate, AI-900 and AZ-900 (Microsoft).">
 
----
+<br>
 
-<div align="center">
+<img src="assets/blueprint/footer.svg" width="100%" alt="Approval block signed by Suriyaprakash Palanisamy and stamped APPROVED.">
 
-💡 *Feel free to explore, fork, and open issues or PRs — collaboration welcome.*
-
-<b>Happy Coding!</b> 😊
+<a href="https://www.linkedin.com/in/suriyaprakashp/"><img src="assets/blueprint/tag-linkedin.svg" width="49%" alt="LinkedIn: in/suriyaprakashp"></a>
+<a href="https://stackoverflow.com/users/10440572/suriya-prakash"><img src="assets/blueprint/tag-stackoverflow.svg" width="49%" alt="Stack Overflow: users/10440572"></a>
+<a href="https://hub.docker.com/u/suriya4code"><img src="assets/blueprint/tag-dockerhub.svg" width="49%" alt="Docker Hub: u/suriya4code"></a>
+<a href="mailto:suriya4code@gmail.com"><img src="assets/blueprint/tag-email.svg" width="49%" alt="Email: suriya4code@gmail.com"></a>
 
 </div>
+
+<details>
+<summary><b>Plain-text version</b> (the whole drawing set, for screen readers and quick scanning)</summary>
+
+### Suriyaprakash Palanisamy
+Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven development · McLean, VA
+
+**Now:** senior backend engineer on an ML forecasting platform at Freddie Mac (since Jul 2026), building FastAPI microservices on AWS EKS/ECS that serve machine-learning models for large-scale forecasting.
+
+**Signature numbers**
+- 10+ years across the full software development life cycle
+- Contributed to a platform of 50+ AWS microservices
+- Refactored a >3,000-line Python backend to ~1,000 lines with OOP, +20% performance
+- PyTest coverage kept above 85% for all new code
+- 5 domains: finance, healthcare, retail, pharma, insurance
+- Led backend teams (Freddie Mac 2023–25, Humana 2019–22) and led API development at CVS Health
+
+**Experience**
+| When | Where | Domain | Highlights |
+|---|---|---|---|
+| Jul 2026 – now | Freddie Mac | Finance · ML forecasting | Rejoined; FastAPI microservices on AWS EKS/ECS serving ML forecasting models |
+| May 2025 – Jul 2026 | Capital One | Finance · card portfolio decisioning | 50+ AWS microservice platform; event-driven serverless pipeline (EventBridge → Lambda → DynamoDB Streams → Step Functions → Glue/Spark); React/TS + Python; Vitest/RTL, Playwright BDD, feature-flagged rollouts |
+| Jan 2023 – May 2025 | Freddie Mac | Finance · ML forecasting | Led the backend team; 3,000 → 1,000-line refactor (+20% perf); >85% coverage; Tableau deployment PoC → production; built a local RAG system |
+| Apr 2022 – Jan 2023 | Agero | Serverless data sync | FastAPI on AWS Lambda from scratch; S3 events → EventBridge → Lambda → MongoDB data sync; GitHub Actions CI/CD; React job dashboard |
+| May 2019 – Apr 2022 | Humana | Healthcare · specialty pharmacy | Led the backend agile team; Tesseract OCR services in Flask integrated with .NET apps; Django; React |
+| Jun 2018 – May 2019 | McKesson | Pharma SaaS | Flask + MS SQL; Angular + C# Web API; Express/Node portal with TDD |
+| Sep 2017 – May 2018 | Woolworths (Sydney) | Retail | ASP.NET/C# N-tier; Azure App Insights monitoring; Sev-1 incident response |
+| Jan 2016 – Aug 2017 | CVS Health | Pharmacy apps | Led API development; AngularJS SPA from scratch on Web API + SQL Server |
+| 2015 | Anna University | BE Mechanical Engineering | The origin story: from gears to graphs |
+
+**Featured projects**
+- [PangoLock](https://github.com/suriya4code/PangoLock): zero-knowledge folder vault for macOS (Swift/SwiftUI). AES-256-GCM with per-item keys (HKDF-SHA256), master key from PBKDF2-HMAC-SHA256 × 210,000, zero-knowledge verifier, Keychain + Touch ID, verify-before-delete, atomic writes, crash-window tests, 87 XCTest tests, CI on macOS, written threat model. MIT, v0.2.1 (pre-1.0).
+- [RAG PDF Genie](https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM): ask a 115-page IRS PDF questions with a fully local LLM (LangChain, Ollama llama3.2 + nomic-embed-text, ChromaDB, Streamlit). No API keys; the document never leaves the machine.
+- OCR trilogy: one OCR engine, three deployments: [tesseract-ocr](https://github.com/suriya4code/tesseract-ocr) (FastAPI on Heroku, 2020) → [tesseract-flask](https://github.com/suriya4code/tesseract-flask) (Flask-RESTX on Docker Hub, 2021) → [tesseract-pillow](https://github.com/suriya4code/tesseract-pillow) (Flask web UI with Heroku + Azure CD, 2022).
+- [Express observability lab](https://github.com/suriya4code/express_js_prometheus): Express CRUD API with prom-client (request counter + latency histogram by method/route/status) and winston-loki logs; Prometheus, Grafana and Loki via Docker Compose.
+- [Containers & Kubernetes](https://github.com/suriya4code/python-microservice): Flask API, 5 replicas behind a LoadBalancer Service on Minikube; Docker Hub images `suriya4code/python-flask-microservice` and `suriya4code/flask-ocr`.
+
+**Tech stack**
+Python, C#/.NET, JavaScript, TypeScript, Swift, Java, Bash, SQL · FastAPI, Flask/Flask-RESTX, .NET Web API/Core, Node/Express, Django · React, Angular/AngularJS, Vue, Redux, SwiftUI · AWS (Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS), Azure, Heroku · GitHub Actions, Docker, Kubernetes, Jenkins · MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy · PyTest, Playwright BDD, Vitest/RTL, XCTest, TDD · Prometheus, Grafana, Loki, CloudWatch, Azure App Insights · Claude Code + MCP + Copilot, local RAG, Tesseract OCR
+
+**Certifications**
+Anthropic: Claude Code in Action, Introduction to Model Context Protocol, Claude 101 (Aug 2026) · Microsoft: AZ-204 (Azure Developer Associate), AI-900, AZ-900
+
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/suriyaprakashp/) · [Stack Overflow](https://stackoverflow.com/users/10440572/suriya-prakash) · [Docker Hub](https://hub.docker.com/u/suriya4code) · [suriya4code@gmail.com](mailto:suriya4code@gmail.com)
+
+</details>

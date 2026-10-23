@@ -1,0 +1,40 @@
+# GitHub Pages site for the profile README.
+# The page content is README.md itself (rendered by jekyll-readme-index), so the
+# profile and the website stay in sync: edit README.md once, both update.
+title: Suriyaprakash Palanisamy
+tagline: Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven development
+description: >-
+  Senior Software Engineer with 10+ years across the full SDLC. FastAPI microservices on AWS EKS/ECS
+  serving ML forecasting models at Freddie Mac. Mechanical engineer by degree: from gears to graphs.
+url: https://suriya4code.github.io
+baseurl: /suriya4code
+github_username: suriya4code
+author: Suriyaprakash Palanisamy
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  # Parse the markdown that sits inside the README's HTML blocks (<div align="center">,
+  # <details>), the same way github.com does.
+  parse_block_html: true
+  hard_wrap: false
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: default
+      image: /assets/site/og.png
+
+exclude:
+  - gifs/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

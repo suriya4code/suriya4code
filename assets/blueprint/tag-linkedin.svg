@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140" role="img" aria-labelledby="t d">
+<title id="t">LinkedIn: in/suriyaprakashp</title><desc id="d">Drafting tag button linking to LinkedIn (in/suriyaprakashp).</desc>
+<defs>
+<pattern id="tg10" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#A8D8FF" stroke-opacity=".08" stroke-width=".6"/></pattern>
+</defs>
+<style>@font-face{font-family:'SG7';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAMQAA8AAAAABdgAAAK4AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgR4cKgZgP1NUQVQqAFQRCAqDdIMPATYCJAMgCxIABCAFTAcgG1gEUZQOygUAPw/sho8rVW84Dq8QEYQ1brXZ1MMgoPUUD8/XlX/uq5qkB6E7oDoyV/kiVtYe4FIs+L9ciZHrD6Gyzf66KecXwuzcrLrPiDlqafvQKdI6uslH/6Av8OKvGUfRHKBRRgkGtCZQgGOCRRwGYgFjqqcSPkl1ncgOf4BAHSAJSX0hUKObIdLU6XOXarh309H9GsqhKARiz7bD+5UQCLmkJKnRRaiTIzQVQj0hiq8k3eQYYIIqieInJKoEuJkqx89lOTEq5PbQC7UW0XCeRqTnVJEuTCsxR8eJ9YZEV2DDZ0yfg5eUzc8++P8T8lPRDQHxXQJlmRBKAs0F2ksnduw8GpAERJ6eAwkZmssEmstNQp2SJFc2zSxzzS8KlE01yxznXvFl8ULxbPFM8bSALUIUhUYIJdAYtbgOjwFykCOJef1hTeO6bg1rokomXvW90KjaRCsvr+ZOdEPiqYm1pTIreiGwaimczvJA69nqvocCs6ZC4Kj3gfZlpvhT3ZpffT3AQQb+IhjsgRQcf00AnVgd26RWg8oQsMD71cxBmHwKtmQV9qC6M1bt3La5x2ZhrpoblQzfUB57YNz/4w6MXcGb1L7S/phmzm0tuzz/75/807a7vWu3n7s0Xt18wIDJ87sOGjSny/N9sp5vffZ/1+mNMhvg2ndWy5dceeklZ4+xE09UFs5aMvfiebMWL6yo8MpJ7utysssjU0+qcPZzraNl069aPNB1Zf/Nj37frml7V5k66UbonzY13XymXBwHXhRI7C+fc++Rx/1WktkP8PHNXW6A7338lwHFKTkwG4Z6Egi+m5Rd2rE8QiChlH2YDf4n3WhA6qMSJZV0WCV1VEm3qgiULJSDgKFMH5nIqyUNiamgTsNXypW0tdg2Oxyz1yaHrbDNLjvsdFTFAXttlQHFzYYAAA==) format('woff2')}
+@font-face{font-family:'JB5';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAQwAA8AAAAAB7QAAAPXAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGigbIBwqBmA/U1RBVEwAfBEICocchVQBNgIkAzwLIAAEIAV+ByAbyQUAHoVxw12KMJlc3xKDCEoE3+/323O/I2bJZLokSGJJkzermqBFQmEo0SOl8XzovexNsmgzlbiFmWyRvc0BwGep+wfU/wDtZX36UzUvWz9weIoFMbuD9rSAtNwNWsGCrQUyvfUCFqhEvQBYdRsCScEoUGvzHc4fEqgBhFAtEAB/PkaVHg7ISnpuKXTkIRNAI43xwsxncMFPmwArJZzPp2ryBXLSM1MJWMu3xz5CIhFIVDhj2Lu6BHjDgNm5P//6MnPET/dj0xgzAgbIhVCW0ILBCOa2VZxGwOkVLxFDhLwODESBfAHiHdIeICekMLofKcihhY/JiczJo22MsIoGBOJpaE0wyVTTzc4EjhPZKT3uuUP2+I/YZacdttsSYatCZDJEZIS+zY0Q9RB7gJoekJMqCBHT6cu9OPIsa08tOX0LKwMLfxMDmR6V68sEfXmTVq9szQBZPEgpWdzDrWmz4gYH6dp+pCrC+S7qK187SAi1CXfdVE6xVe21WBJnSxZ3IVUTynJEn6FYSxhaQSuruHIO6GOT20zDXV+frRsg3lwZal56CdG5t5mL28pWBaJHeu2AA93dTunazs6DiPKBdzeFe8u4PXc4bs09LLodXtbfD8S4giZhKYP02t7NM/vKKupp1e7D1nuP2tZQsWwunaVd84AsfkjX3seie9Ujx0bqgv1iEv77qvzwRbdcqMzLFytrd4f6Tw4h50bBOJ2sGRU1wmShbJam2cQ0tibdt1iVrQrI3Omj7+WzCaUf0jWIXbuS87LSinmxaoIkROwNCb2gqkHR8WPhlGD87LKAig9pM795bM4F5WX7eVte82+wNabVVFK7ca5Q8jrC/hlLMakwO7VEmNC4N9GvtjAkKqUoO0m0Zhbun6AMP6fapDoXHvogalPUA7SMiRobp8SqvOq8yhapwX2iXcyF8PCLqhpYlWMq3UOS4ySVkbdvsKWz07Pr6VyFfnFmZq5QzHuUt+QrkqTIdk+PwCMuDnXTM2mtXnluVkFLRQt8KurpU9TVUnX0gdCwC9HtUvWMKTh7Nb+3TT5zSrh6MCl4UK0Nn0qHsXxpwZ6bFLvh++S6zdFpm+t4WyfHbVCMQYaiugYYAeuQxlmD978iSIuy5RuLTzUYxn7VYdkXwGfPiT0Af/j8WUCWy4Sy8YCiBIK/P5H2FOL/yhkgXKyejVVHxKKUK0IFV4oW5KMYAUj9JuAXgXoTWG2Y57tn+oIlrMjrVurYywjUqIOc64IhNxbCjMCZVaxZq+kkvCkqNNNoJZomT7MmGtONl2UankRDrdhE4/EmYIFsCAHBAQAAAA==) format('woff2')}
+text{font-kerning:normal}
+.h{font-family:'SG7','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+.b{font-family:'SG5','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+.m{font-family:'JB5','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:500}
+.mb{font-family:'JB7','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:750}
+.ink{fill:none;stroke:#EEF6FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ink2{fill:none;stroke:#B9D4EE;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#B9D4EE;stroke-width:.8}
+.cy{fill:none;stroke:#72E4FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.cl{fill:none;stroke:#72E4FF;stroke-opacity:.55;stroke-width:.8;stroke-dasharray:16 4 3 4}
+.hid{fill:none;stroke:#B9D4EE;stroke-opacity:.6;stroke-width:1;stroke-dasharray:5 4}
+.con{fill:none;stroke:#4F80B3;stroke-opacity:.55;stroke-width:.8}
+.dimL{fill:none;stroke:#B9D4EE;stroke-width:.9}
+.ah{fill:#B9D4EE}
+.draw{stroke-dasharray:1 1;animation:draw var(--d,1.4s) cubic-bezier(.55,.1,.25,1) var(--t,0s) both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.fade{animation:fade var(--d,.6s) ease var(--t,0s) both}
+@keyframes fade{from{opacity:.22}}
+.rise{animation:rise var(--d,.7s) cubic-bezier(.2,.8,.2,1) var(--t,0s) both}
+@keyframes rise{from{opacity:.22;transform:translateY(10px)}}
+.spin{animation:spin var(--p,20s) linear infinite}
+.spinr{animation:spin var(--p,20s) linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.blink{animation:blink var(--p,2s) ease-in-out var(--t,0s) infinite}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}
+.sw{transform-origin:62px 70px;animation:sw 4.5s ease-in-out infinite}@keyframes sw{0%,100%{transform:rotate(-1.2deg)}50%{transform:rotate(1.2deg)}}.str{animation:str 4.5s ease-in-out infinite}@keyframes str{0%,100%{d:path("M8 40C24 44 40 58 56 68")}50%{d:path("M8 44C24 40 42 56 56 68")}}</style>
+<path d="M8 40C24 44 40 58 56 68" fill="none" stroke="#5A8FC4" stroke-width="2.4" stroke-linecap="round" class="str"/>
+<g class="sw"><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="#0B2E55" stroke="#EEF6FF" stroke-width="2"/><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="url(#tg10)"/><path d="M54 30H448a10 10 0 0 1 10 10V100a10 10 0 0 1 -10 10H54" fill="none" stroke="#B9D4EE" stroke-opacity=".45" stroke-dasharray="4 4"/><circle cx="62" cy="70" r="13" fill="none" stroke="#B9D4EE" stroke-width="2"/><circle cx="62" cy="70" r="7" fill="#04182E" stroke="#EEF6FF" stroke-width="1.6"/><g fill="none" stroke="#72E4FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="98" y="54" width="40" height="32" rx="4"/><circle cx="110" cy="67" r="5"/><path d="M102 81c1-6 15-6 16 0M123 64h10M123 71h10M123 78h6"/></g><text x="160" y="66" class="h" font-size="27" fill="#EEF6FF" letter-spacing="1.2">LINKEDIN</text><text x="160" y="94" class="m" font-size="17" fill="#72E4FF">in/suriyaprakashp</text><path d="M412 52l16 18l-16 18" fill="none" stroke="#FFC95C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

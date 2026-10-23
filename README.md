@@ -75,7 +75,7 @@ Backend · Cloud · ML platforms · AI-driven development<br>
 </div>
 
 <details>
-<summary><b>Plain-text version</b> (the whole drawing set, for screen readers and quick scanning)</summary>
+<summary markdown="span"><b>Plain-text version</b> (the whole drawing set, for screen readers and quick scanning)</summary>
 
 ### Suriyaprakash Palanisamy
 Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven development · McLean, VA
@@ -91,6 +91,7 @@ Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven develo
 - Led backend teams (Freddie Mac 2023–25, Humana 2019–22) and led API development at CVS Health
 
 **Experience**
+
 | When | Where | Domain | Highlights |
 |---|---|---|---|
 | Jul 2026 – now | Freddie Mac | Finance · ML forecasting | Rejoined; FastAPI microservices on AWS EKS/ECS serving ML forecasting models |

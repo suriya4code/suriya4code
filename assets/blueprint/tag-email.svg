@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140" role="img" aria-labelledby="t d">
+<title id="t">Email: suriya4code@gmail.com</title><desc id="d">Drafting tag button linking to Email (suriya4code@gmail.com).</desc>
+<defs>
+<pattern id="tg10" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#A8D8FF" stroke-opacity=".08" stroke-width=".6"/></pattern>
+</defs>
+<style>@font-face{font-family:'SG7';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAMYAA8AAAAABYwAAAK+AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgRwcKgZgP1NUQVQqAFQRCAqDNIJgATYCJAMcCxAABCAFTAcgGyMEKL4McHK7KrDSEJIdlEWxh3cplc65xQjP5yvyecpIBNF+fVbPm09v94hpDxHUsYIAurAHdHGoyF+iiXmg9mtv9985ps0kaWlMp1MSdBqhimdoeh4SZqWaOMYB7rrh6wPonQNhfjq5Hejfj5kkkECW1j54irSaQ+RLWwKE/yeCCE//c9KLn7iZFqVhF/gSTBMMOBpjAeUQ+NpAnYfhJn58u5kjlH3WSpe35y4sUAUkIakXAqW+Rktz5i1Zo/mRnWeOaS7D/wTE4b2njmlEIGRJo6Q0Xmgpo9BZT/2FQkjqhPT/BZHTE7UEnQ2UpS2goJCZVExKLKT3NxDqqLj9OY1PJXWku5FY3PLENqPDMFDD4+ct4FMDlibf/L2Qr0VfBMTTWEJPhRAaBdoKdJXO7z9wJiAJiJw+BAkF2ioE2spmoqpRkvU0y1wLLf0HA5Z8u+tXPv9UwB4h/qcVoQE0R4lbeAmQQUYSfqqWLasjjalqrm+58+5dSN+8Lzbfu5W6cVNYanbvOiQ3rwpNdy/EG5eLVcLVSstulNbh5uGADq+9Fa6UKVHGzfv74tptnRtH7/Zt++hZKtsrW8t15ZrNlU1lpa6ZqkQrdZXMdnhrZXttWVduKbeVuefNjbt3V/9dx9m4BAXjtveccnzqf9+UyD4rta7Ptotf6en90T/vu79e7dP3p7Sp7fDhs5b1GTlyce+PBhfjX3/lvRstoPXxB08Fud3vub9Wz8mHa6a1WqmxzGu9L/R+Z86rlVY/NH1Ok/TVWivp15I2+/ym7w7QejP4WCDx+cGbceqvFD/C9+s+Bz94/tLxv5HFPOolEHxQWjzUuhiTaQHXMP+Q7f4jXdI6TqmFRrXYXS05pSbQYIUMQvUVBitEbpI0h2CCquZ/KWvU2Sp77XfWETudst5eB+13wBk1xx2xRwH8n9EAAAAA) format('woff2')}
+@font-face{font-family:'JB5';font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAXUAA8AAAAACmAAAAV7AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGigbIBwqBmA/U1RBVEwAgRQRCAqMEIlZATYCJANQCyoABCAFfgcgG/oHQC4G3N0dEkQMFVX4VNVOhIjB+gXP01z5/iRLMweAOeYS0Z5q2SUt7xUlg0LJuopYlh3BDulVcyKzWYlHonvAHeD6XSp1YMWn5t19CR3aFgqUhPpC/wPElz1ZU/vXsvtKABSusrJKNlXApIhHanO1kzOyQg1JTgJbIOVx0N0AB12NIkAMoa6wEcsRbPxUggTrmjiEe+BoDnnHDRnGlwNXbICogn0E36EcNZt378KGKhA6DjjeVrPkKz5QETADwOjS7jKPfCEDFIQI+sK+owYBwB0K2GT9/f8ITFKqR1GVo141C/Ah+95UQApCSpZsWF7SYAf8DLOFXTyCTQbKLfXJV5B7sDdzLQQlCVu3eTKWN6XXVqLYuP8zhwQsYiiglmYGYKGQYkqppJp6GmmNCou1QQWu7nt2e+mBExq1isBRBEwIGoJEFQ9NSOHsciAL5AuoMICYqwpWVlCaHpUYKsRLy3lsy8o10ene4Tomzj2+PMk7uMainjENV2p8sfaiWN+SsOfUyDPxijHieR2RGfr5U9OXUFp0lftkWt9zkY4yrls4MvxEuG1AZqo+5jkWXFcP+ebJI2UhVjJJpVGKsVdAHge80ct97THELEA22e7ZQiPrSITpUxt9t8h0Pq2XNRNL2/Qst5kRY2mJVYbYxa21BbZ7GoPxpdkM7/HkYGPRqNKW1+tIu9I+rebGfbat5J+yEwl0j20eJ8+sKjNqxLtalc9OovXUSBzatI4cPWuL4uljlFfrnGXUubIVbypOnW70mHlwN3N9P1vnsSJWYmS5WYKHGLUwckW83/S9uIcnWHOVLtYZ7oNzgjqycuLl8zao3GQMs3nUu7ZfxT3DiyE3nBea9eLMi7kNmTjS/yqZ4Gto2iK1QFii1q9CWbXJJZ8RrXIduV6ls9ZaFS2lhf4BeB0zQ4rlYrPZy+leqZUzoC5EX5aPNFNmqK2m4iXQbc3F9jN7s09CqD/tB9B/25pOZlfYz9xQDBxDkxdXm9bN9rJldBGXUhJm33204kV4ZUgJRcSNNkBH0DPoIxB8CTuDvQSqQrQlCNhEnqG0GGGZRrchyHOiWOXZhPuddTPVYY+hG6RRtHg8joLF4CmEsF9weJl7MX04BWVXmC4jCVk0haXaVGOyVCtoQjZJHgxWhHNFNq0mIh86gi7c1NNPYAsxk2DiouuLLlgTb11ZRHsTLzWdl//w+qICKBYRc8AKztEyA7/UpqVn5TIIdcm/a50MCMMn75tPxOyGheFeyYnYY+FhPXh9UBWkL4ZgE2WK2mIseulVCSN1itJi+pI0I+oSZgp7EYW83bkXc4dlTklpeCxZI9AK1EUVpqTqSNwRGD6K1YHQIG5GUj6VUIH1TcvIC4mLvXVjmJ4eO2kEm2+VWpKVRULngb2ou2VOzl58tKGR7TEnZtoYjqhIVQTSQ7Z1dTZthRazBSGOYOBl25rqwMFl3MP7vg2rYdvzgQ3PF4fheo/n7CfDT0Vst1SdT3l/OXwGVIVS/5dXfE8u7UNF+VeGXFO5zKF96ilaam/bUKWwBoer5B6VOVHOKSdyyXSxoFHAH4Gcu5P6JDuGHmgqYTNSECpzZYHcXFSuYyod6x18fnUmNymJl9mYzQEZWxMWYmIXEujrjY1ZAH6HAOAnOQEogIkAVW15/4uWAKrVbr+5WmLy6f4WtKz3AC8fnDsE8I6Xv8mNjlGtljfgRwEg8GEIqxn9pP871kAInpQ+jxZ58KmuEMR4CUQFcCZQVAIpZAMHngBopwBvPwmz9cciDbVFe4u2j0E4IHYI4mw1JYEY4sCHz4J4vDOcgKaRSR+WhY1UYKEOlfWU4noJDQiwpwDVG6mEgzIWKqC0DSnVVNaqcCCYFh35gAAAAA==) format('woff2')}
+text{font-kerning:normal}
+.h{font-family:'SG7','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+.b{font-family:'SG5','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+.m{font-family:'JB5','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:500}
+.mb{font-family:'JB7','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:750}
+.ink{fill:none;stroke:#EEF6FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ink2{fill:none;stroke:#B9D4EE;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#B9D4EE;stroke-width:.8}
+.cy{fill:none;stroke:#72E4FF;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.cl{fill:none;stroke:#72E4FF;stroke-opacity:.55;stroke-width:.8;stroke-dasharray:16 4 3 4}
+.hid{fill:none;stroke:#B9D4EE;stroke-opacity:.6;stroke-width:1;stroke-dasharray:5 4}
+.con{fill:none;stroke:#4F80B3;stroke-opacity:.55;stroke-width:.8}
+.dimL{fill:none;stroke:#B9D4EE;stroke-width:.9}
+.ah{fill:#B9D4EE}
+.draw{stroke-dasharray:1 1;animation:draw var(--d,1.4s) cubic-bezier(.55,.1,.25,1) var(--t,0s) both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.fade{animation:fade var(--d,.6s) ease var(--t,0s) both}
+@keyframes fade{from{opacity:.22}}
+.rise{animation:rise var(--d,.7s) cubic-bezier(.2,.8,.2,1) var(--t,0s) both}
+@keyframes rise{from{opacity:.22;transform:translateY(10px)}}
+.spin{animation:spin var(--p,20s) linear infinite}
+.spinr{animation:spin var(--p,20s) linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.blink{animation:blink var(--p,2s) ease-in-out var(--t,0s) infinite}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}
+.sw{transform-origin:62px 70px;animation:sw 4.5s ease-in-out infinite}@keyframes sw{0%,100%{transform:rotate(-1.2deg)}50%{transform:rotate(1.2deg)}}.str{animation:str 4.5s ease-in-out infinite}@keyframes str{0%,100%{d:path("M8 40C24 44 40 58 56 68")}50%{d:path("M8 44C24 40 42 56 56 68")}}</style>
+<path d="M8 40C24 44 40 58 56 68" fill="none" stroke="#5A8FC4" stroke-width="2.4" stroke-linecap="round" class="str"/>
+<g class="sw"><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="#0B2E55" stroke="#EEF6FF" stroke-width="2"/><path d="M48 22H452a16 16 0 0 1 16 16V102a16 16 0 0 1 -16 16H48L18 92V48Z" fill="url(#tg10)"/><path d="M54 30H448a10 10 0 0 1 10 10V100a10 10 0 0 1 -10 10H54" fill="none" stroke="#B9D4EE" stroke-opacity=".45" stroke-dasharray="4 4"/><circle cx="62" cy="70" r="13" fill="none" stroke="#B9D4EE" stroke-width="2"/><circle cx="62" cy="70" r="7" fill="#04182E" stroke="#EEF6FF" stroke-width="1.6"/><g fill="none" stroke="#72E4FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="98" y="56" width="40" height="28" rx="3"/><path d="M98 58l20 15l20 -15"/></g><text x="160" y="66" class="h" font-size="27" fill="#EEF6FF" letter-spacing="1.2">EMAIL</text><text x="160" y="94" class="m" font-size="17" fill="#72E4FF">suriya4code@gmail.com</text><path d="M412 52l16 18l-16 18" fill="none" stroke="#FFC95C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

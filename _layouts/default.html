@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#082341">
+  {% seo title=false %}
+  <title>{{ site.title }} · {{ site.tagline }}</title>
+  <link rel="icon" href="{{ '/assets/site/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/site/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#sheet">Skip to content</a>
+  <header class="titlebar">
+    <span class="dwg">DWG S4C · GEARS TO GRAPHS</span>
+    <nav>
+      <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+      <a href="https://www.linkedin.com/in/suriyaprakashp/">LinkedIn</a>
+      <a href="mailto:suriya4code@gmail.com">Email</a>
+    </nav>
+  </header>
+  <main id="sheet" class="sheet">
+    {{ content }}
+  </main>
+  <footer class="colophon">
+    <span>© {{ 'now' | date: '%Y' }} {{ site.author }}</span>
+    <span>This page is the <a href="https://github.com/{{ site.github_username }}/{{ site.github_username }}/blob/master/README.md">profile README</a>, rendered by GitHub Pages</span>
+  </footer>
+</body>
+</html>

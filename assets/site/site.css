@@ -64,3 +64,68 @@ details code { font: 13px var(--mono); background: rgba(114, 228, 255, .08); pad
 .sheet table { width: 100%; border-collapse: collapse; margin: 8px 0 16px; font-size: 14px; display: block; overflow-x: auto; }
 .sheet th, .sheet td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid rgba(114, 228, 255, .16); }
 .sheet th { color: var(--ink); font: 12px var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+
+/* ThumbStall live model (assets/site/stall.js): site only, github.com never runs it */
+.stall-strip {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px 14px;
+  margin: 2px auto 18px; font: 12px/1.4 var(--mono); color: var(--dim);
+}
+.stall-tag { letter-spacing: .16em; color: var(--cyan); }
+.stall-tag::before { content: ""; display: inline-block; width: 7px; height: 7px; margin-right: 8px; border-radius: 50%; background: var(--cyan); vertical-align: 1px; animation: stall-blink 1.8s ease-in-out infinite; }
+.stall-strip.armed .stall-tag::before { background: var(--amber); }
+.stall-btn {
+  font: 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; cursor: pointer;
+  padding: 9px 14px; border-radius: 999px; border: 1px solid var(--cyan); background: var(--cyan); color: var(--paper0);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.stall-btn.ghost { background: transparent; color: var(--cyan); }
+.stall-strip.armed .stall-btn.ghost { border-color: var(--amber); color: var(--amber); }
+.stall-btn:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(114, 228, 255, .2); }
+.stall-btn:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+.stall-note b { color: var(--ink); font-weight: 600; }
+@keyframes stall-blink { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+
+html.stall-lock { overflow: hidden; }
+.stall-ov {
+  position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; padding: 16px;
+  background: rgba(3, 14, 28, .72); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  opacity: 0; transition: opacity .2s ease;
+}
+.stall-ov[hidden] { display: none; }
+.stall-ov.on { opacity: 1; }
+.stall-card {
+  width: min(360px, 100%); padding: 22px 22px 18px; border-radius: 28px; text-align: center; color: var(--ink2);
+  background: linear-gradient(180deg, #0b2e55, #061c35); border: 1.5px solid var(--ink);
+  box-shadow: 0 0 0 6px rgba(114, 228, 255, .06), 0 30px 80px rgba(0, 0, 0, .5);
+  transform: translateY(14px) scale(.98); transition: transform .25s cubic-bezier(.2, .8, .2, 1);
+}
+.stall-ov.on .stall-card { transform: none; }
+.stall-app { display: flex; align-items: center; gap: 10px; text-align: left; font-size: 13px; }
+.stall-app b { display: block; color: var(--ink); }
+.stall-app small { color: var(--dim); font: 11px var(--mono); }
+.stall-app em { margin-left: auto; font-style: normal; font-weight: 700; font-size: 12px; color: var(--cyan); }
+.stall-ic { width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; background: var(--paper1); border: 1px solid rgba(185, 212, 238, .5); color: var(--ink); font: 700 13px var(--mono); }
+.stall-ring { position: relative; width: 168px; height: 168px; margin: 18px auto 8px; }
+.stall-ring svg { width: 100%; height: 100%; }
+.stall-ring .trk { fill: none; stroke: rgba(185, 212, 238, .2); stroke-width: 5; }
+.stall-ring .prg { fill: none; stroke: var(--cyan); stroke-width: 5; stroke-linecap: round; }
+.stall-disc {
+  position: absolute; inset: 34px; border-radius: 50%; display: grid; place-content: center;
+  background: var(--paper1); border: 1px solid rgba(114, 228, 255, .35); animation: stall-breathe 8s ease-in-out infinite;
+}
+.stall-n { font: 700 40px/1 var(--sans); color: var(--ink); font-variant-numeric: tabular-nums; }
+.stall-disc small { font: 10px var(--mono); letter-spacing: .06em; color: var(--ink2); margin-top: 4px; }
+@keyframes stall-breathe { 0%, 100% { transform: scale(.86); } 50% { transform: scale(1.04); } }
+.stall-card h2 { margin: 6px 0 4px; font-size: 21px; color: var(--ink); }
+.stall-card p { margin: 0 0 14px; font: 12px/1.5 var(--mono); }
+.stall-chips { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 10px; }
+.stall-chips button, .stall-close { font: 600 12px var(--mono); border-radius: 10px; padding: 9px 4px; cursor: pointer; }
+.stall-chips button { background: transparent; color: var(--cyan); border: 1px solid var(--cyan); transition: opacity .3s ease; }
+.stall-chips button:disabled { opacity: .3; cursor: not-allowed; }
+.stall-close { width: 100%; border: 0; border-radius: 999px; padding: 12px; background: var(--ink); color: var(--paper0); font: 700 14px var(--sans); }
+.stall-chips button:focus-visible, .stall-close:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+.stall-rule { display: block; margin-top: 12px; font: 10.5px/1.5 var(--mono); color: var(--dim); }
+@media (prefers-reduced-motion: reduce) {
+  .stall-tag::before, .stall-disc { animation: none; }
+  .stall-ov, .stall-card, .stall-btn { transition: none; }
+}

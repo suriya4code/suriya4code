@@ -21,6 +21,12 @@ Backend · Cloud · ML platforms · AI-driven development<br>
 
 <br>
 
+<a href="https://github.com/suriya4code/ThumbStall"><img src="assets/blueprint/thumbstall.svg" width="100%" alt="ThumbStall, anti-doomscrolling app for Android, as a mechanism drawing: a thumb doomscrolls an endless feed while a feed drum spins; the pure-Kotlin rules engine trips, a stall pawl drops into the drum and the feed brakes to a stop. A breathing pause asks Still want to scroll? and counts down from 8; the 5, 10 and 15 minute session-budget chips unlock at zero; the thumb taps Close and the sheet stamps STALLED. Repeat opens within an hour wait 8, 13, 18, 23, 28 and a 30 second cap. INTERNET is struck through in the manifest: never requested. 35 core unit tests, GitHub Actions CI, Room."></a>
+
+<sub><a href="https://github.com/suriya4code/ThumbStall"><b>ThumbStall</b></a> · Kotlin · Jetpack Compose · Room · Android 8+ · GPL-3.0 · v0.1.1 · <a href="https://suriya4code.github.io/ThumbStall/">website</a> · <a href="https://github.com/suriya4code/ThumbStall/releases/latest">APK</a> · breathing pause, escalating delays, session budget, costly override, no INTERNET permission</sub>
+
+<br>
+
 <a href="https://github.com/suriya4code/PangoLock"><img src="assets/blueprint/pangolock.svg" width="100%" alt="PangoLock, zero-knowledge folder vault for macOS, as an exploded isometric drawing: password, PBKDF2-HMAC-SHA256 with 210,000 iterations, master key with zero-knowledge verifier, HKDF-SHA256 per-item key, AES-256-GCM, atomic write of a .plock file, decrypt-and-compare, original removed, vault locked. 87 XCTest tests, CI on macOS, written threat model."></a>
 
 <sub><a href="https://github.com/suriya4code/PangoLock"><b>PangoLock</b></a> · Swift / SwiftUI · macOS 13+ · MIT · v0.2.1 (pre-1.0) · verify-before-delete, atomic writes, crash-window tests, recovery key, portable lockers, encrypted sharing</sub>
@@ -105,6 +111,7 @@ Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven develo
 | 2015 | Anna University | BE Mechanical Engineering | The origin story: from gears to graphs |
 
 **Featured projects**
+- [ThumbStall](https://github.com/suriya4code/ThumbStall) ([website](https://suriya4code.github.io/ThumbStall/)): free, open-source anti-doomscrolling app for Android (Kotlin, Jetpack Compose, Room). A foreground service polls `UsageStatsManager` every 900 ms; a pure-Kotlin rules engine in `core/` (35 JVM unit tests) decides when to show a breathing pause before a distracting app opens. Repeat opens within an hour escalate the pause from 8 s by 5 s up to 30 s; 5/10/15-minute session budgets unlock only after the countdown; snooze, a costly 24-second override, an essentials allowlist and positive stats. No INTERNET permission, no accounts, no analytics. GPL-3.0, v0.1.1.
 - [PangoLock](https://github.com/suriya4code/PangoLock): zero-knowledge folder vault for macOS (Swift/SwiftUI). AES-256-GCM with per-item keys (HKDF-SHA256), master key from PBKDF2-HMAC-SHA256 × 210,000, zero-knowledge verifier, Keychain + Touch ID, verify-before-delete, atomic writes, crash-window tests, 87 XCTest tests, CI on macOS, written threat model. MIT, v0.2.1 (pre-1.0).
 - [RAG PDF Genie](https://github.com/suriya4code/RAG_PDF_Genie_with_Local_LLM): ask a 115-page IRS PDF questions with a fully local LLM (LangChain, Ollama llama3.2 + nomic-embed-text, ChromaDB, Streamlit). No API keys; the document never leaves the machine.
 - OCR trilogy: one OCR engine, three deployments: [tesseract-ocr](https://github.com/suriya4code/tesseract-ocr) (FastAPI on Heroku, 2020) → [tesseract-flask](https://github.com/suriya4code/tesseract-flask) (Flask-RESTX on Docker Hub, 2021) → [tesseract-pillow](https://github.com/suriya4code/tesseract-pillow) (Flask web UI with Heroku + Azure CD, 2022).
@@ -112,7 +119,7 @@ Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven develo
 - [Containers & Kubernetes](https://github.com/suriya4code/python-microservice): Flask API, 5 replicas behind a LoadBalancer Service on Minikube; Docker Hub images `suriya4code/python-flask-microservice` and `suriya4code/flask-ocr`.
 
 **Tech stack**
-Python, C#/.NET, JavaScript, TypeScript, Swift, Java, Bash, SQL · FastAPI, Flask/Flask-RESTX, .NET Web API/Core, Node/Express, Django · React, Angular/AngularJS, Vue, Redux, SwiftUI · AWS (Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS), Azure, Heroku · GitHub Actions, Docker, Kubernetes, Jenkins · MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy · PyTest, Playwright BDD, Vitest/RTL, XCTest, TDD · Prometheus, Grafana, Loki, CloudWatch, Azure App Insights · Claude Code + MCP + Copilot, local RAG, Tesseract OCR
+Python, C#/.NET, JavaScript, TypeScript, Swift, Kotlin, Java, Bash, SQL · FastAPI, Flask/Flask-RESTX, .NET Web API/Core, Node/Express, Django · React, Angular/AngularJS, Vue, Redux, SwiftUI, Jetpack Compose · AWS (Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS), Azure, Heroku · GitHub Actions, Docker, Kubernetes, Jenkins · MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy · PyTest, Playwright BDD, Vitest/RTL, XCTest, TDD · Prometheus, Grafana, Loki, CloudWatch, Azure App Insights · Claude Code + MCP + Copilot, local RAG, Tesseract OCR
 
 **Certifications**
 Anthropic: Claude Code in Action, Introduction to Model Context Protocol, Claude 101 (Aug 2026) · Microsoft: AZ-204 (Azure Developer Associate), AI-900, AZ-900

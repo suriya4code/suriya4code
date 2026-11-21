@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/blueprint/hero.svg" width="100%" alt="Blueprint title sheet: Suriyaprakash Palanisamy, Senior Software Engineer. A meshing gear train, a nod to his mechanical engineering degree, drives a lantern wheel whose pins are graph nodes. An encoder turns the motion into a signal that flows through a node graph to FastAPI, AWS EKS/ECS and ML forecasting.">
+<img src="assets/blueprint/hero.svg" width="100%" alt="Blueprint title sheet: Suriyaprakash Palanisamy, Senior Full Stack Developer: Python, React, AWS, GenAI. A meshing gear train, a nod to his mechanical engineering degree, drives a lantern wheel whose pins are graph nodes. An encoder turns the motion into a signal that flows through a node graph to FastAPI, AWS EKS/ECS and ML forecasting.">
 
-<b>Suriyaprakash Palanisamy</b> · Senior Software Engineer<br>
-Backend · Cloud · ML platforms · AI-driven development<br>
-<sub>10+ years across the full SDLC. Now building FastAPI microservices on AWS EKS/ECS that serve ML forecasting models at Freddie Mac (McLean, VA). Mechanical engineer by degree: from gears to graphs.</sub>
+<b>Suriyaprakash Palanisamy</b> · Senior Full Stack Developer<br>
+Python · React · AWS · GenAI · agentic AI engineering<br>
+<sub>10+ years across the full SDLC in regulated industries: finance, healthcare, pharma and insurance. Now building FastAPI microservices on AWS EKS/ECS that serve ML forecasting models at Freddie Mac (McLean, VA). Mechanical engineer by degree: from gears to graphs.</sub>
 
 <a href="https://www.linkedin.com/in/suriyaprakashp/">LinkedIn</a> ·
 <a href="https://stackoverflow.com/users/10440572/suriya-prakash">Stack Overflow</a> ·
@@ -13,11 +13,11 @@ Backend · Cloud · ML platforms · AI-driven development<br>
 
 <br>
 
-<img src="assets/blueprint/specs.svg" width="100%" alt="Who I am: 10+ years across the full SDLC; a platform of 50+ AWS microservices he contributed to; a 3,000-line Python backend refactored to about 1,000 lines with 20% better performance; PyTest coverage above 85% on new code; five domains: finance, healthcare, retail, pharma and insurance.">
+<img src="assets/blueprint/specs.svg" width="100%" alt="Who I am: senior full stack developer, architect of the Freddie Mac M+ forecasting backend and an agentic AI engineer (Claude Code, MCP servers, sub-agents, skills). 10+ years across the full SDLC; a platform of 50+ AWS microservices he contributed to; a 3,000-line Python backend refactored to about 1,000 lines with 20% better performance; PyTest coverage above 85% on new code; five domains: finance, healthcare, retail, pharma and insurance.">
 
 <br>
 
-<img src="assets/blueprint/bom.svg" width="100%" alt="Tech stack as a bill of materials. Languages: Python, C#/.NET, JavaScript (primary), TypeScript, Swift, Java, Bash, SQL. Backend: FastAPI, Flask/Flask-RESTX, .NET Web API/Core (primary), Node/Express, Django. Frontend: React, Angular (primary), Vue, Redux, SwiftUI. AI: Claude Code, MCP, Copilot, local RAG, Tesseract OCR. Data: MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy. DevOps: GitHub Actions, Docker, Kubernetes, Jenkins. Cloud: AWS (primary) incl. Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS; Azure; Heroku. Testing: PyTest (primary), Playwright BDD, Vitest/RTL, XCTest, TDD. Observability: Prometheus, Grafana, Loki, CloudWatch, Azure App Insights.">
+<img src="assets/blueprint/bom.svg" width="100%" alt="Tech stack as a bill of materials. Languages: Python, C#/.NET, JavaScript (primary), TypeScript, Swift, Kotlin, Java, Bash, SQL. Backend: FastAPI, Flask/Flask-RESTX, .NET Web API/Core (primary), Node/Express, Django, GraphQL. Frontend: React, Angular (primary), Vue, Redux, SwiftUI. AI: Claude Code (primary), Claude Agent SDK, MCP servers, Copilot, sub-agents and skills, Tesseract OCR, local RAG. Data: MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy. DevOps: GitHub Actions, Docker, Kubernetes, Jenkins, GitLab CI, Azure Pipelines. Cloud: AWS (primary) incl. Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS, EC2, CloudFormation; Azure; Heroku. Testing: PyTest (primary), Playwright BDD, Cucumber, Cypress, Vitest/RTL, XCTest, TDD. Observability: Prometheus, Grafana, Loki, CloudWatch, Azure App Insights.">
 
 <br>
 
@@ -63,11 +63,21 @@ Backend · Cloud · ML platforms · AI-driven development<br>
 
 <br>
 
-<img src="assets/blueprint/career.svg" width="100%" alt="Career as a revision history, latest first. Rev J, Jul 2026 to now: Freddie Mac, FastAPI microservices on AWS EKS/ECS serving ML forecasting models. Rev H, May 2025 to Jul 2026: Capital One, platform of 50+ AWS microservices and an event-driven serverless pipeline. Rev G, Jan 2023 to May 2025: Freddie Mac, led the backend team. Rev F, Apr 2022 to Jan 2023: Agero, FastAPI on AWS Lambda from scratch. Rev E, May 2019 to Apr 2022: Humana, led the backend agile team, Tesseract OCR services. Rev D, Jun 2018 to May 2019: McKesson. Rev C, Sep 2017 to May 2018: Woolworths, Sydney. Rev B, Jan 2016 to Aug 2017: CVS Health, led API development. Rev A, 2015: BE Mechanical Engineering, Anna University.">
+<img src="assets/blueprint/bench.svg" width="100%" alt="On the bench, personal projects. Agent Harness, in progress: a long-running task moves through goal, plan, act, verify and save stations; a failed verify loops back to act for a retry, and every step reads from and writes to a long-term memory that guards against hallucinations. Home DNS server: phones, a TV and a PC send DNS queries to an old Ubuntu laptop running Technitium DNS Server, which serves the whole home network and forwards the rest upstream.">
+
+<sub><b>Agent Harness</b> (in progress) · carries long-running, multi-step AI tasks to completion with long-term memory as a guard against hallucinations · <b>Home DNS server</b> · an old Ubuntu laptop running <a href="https://technitium.com/dns/">Technitium DNS Server</a> for the home network</sub>
 
 <br>
 
-<img src="assets/blueprint/ai.svg" width="100%" alt="AI-driven development: Claude Code runs a plan, code, test, review loop, connected over MCP to the codebase, tools and data, with Copilot in the editor, and tests and human review in the loop. Certifications: Claude Code in Action, Introduction to Model Context Protocol and Claude 101 (Anthropic, Aug 2026); AZ-204 Azure Developer Associate, AI-900 and AZ-900 (Microsoft).">
+<img src="assets/blueprint/career.svg" width="100%" alt="Career as a revision history, latest first. Rev J, Jul 2026 to now: Freddie Mac, rejoined Mercury Plus (M+), FastAPI microservices on AWS EKS/ECS serving ML forecasting models. Rev H, May 2025 to Jul 2026: Capital One, platform of 50+ AWS microservices and an event-driven serverless pipeline; owned the cross-team circuit-breaker precheck rollout. Rev G, Jan 2023 to May 2025: Freddie Mac, architect and backend lead of M+; forecast jobs moved onto a queue and EKS worker for 5x quarter-end load; large-result queries 25% faster. Rev F, Apr 2022 to Jan 2023: Agero, FastAPI on AWS Lambda from scratch. Rev E, May 2019 to Apr 2022: Humana, led the backend agile team; Tesseract OCR integration processing about 200K faxes a month with no lost documents; owned the C#/.NET Web API. Rev D, Jun 2018 to May 2019: McKesson. Rev C, Sep 2017 to May 2018: Woolworths, Sydney. Rev B, Jan 2016 to Aug 2017: CVS Health, led API development. Rev A, 2015: BE Mechanical Engineering, Anna University.">
+
+<br>
+
+<img src="assets/blueprint/ai.svg" width="100%" alt="Agentic AI engineering: Claude Code and its sub-agents run a skill-driven loop (Superpowers: brainstorm and plan, code with Copilot, TDD and verify, human review), connected over custom MCP servers to the codebase, tools and data. Ponytail keeps diffs minimal and Caveman keeps output token-lean; a human approves every PR. Certifications: Claude Code in Action, Introduction to Model Context Protocol and Claude 101 (Anthropic, Aug 2026); AZ-204 Azure Developer Associate, AI-900 and AZ-900 (Microsoft).">
+
+<br>
+
+<sub>Verify: <a href="https://verify.skilljar.com/c/mvena5hq6df3">Claude Code in Action</a> · <a href="https://verify.skilljar.com/c/4b3s9ynkxcq5">Introduction to Model Context Protocol</a> · <a href="https://verify.skilljar.com/c/5z667jiuj8c6">Claude 101</a></sub>
 
 <br>
 
@@ -84,15 +94,20 @@ Backend · Cloud · ML platforms · AI-driven development<br>
 <summary markdown="span"><b>Plain-text version</b> (the whole drawing set, for screen readers and quick scanning)</summary>
 
 ### Suriyaprakash Palanisamy
-Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven development · McLean, VA
+Senior Full Stack Developer · Python · React · AWS · GenAI · McLean, VA
 
-**Now:** senior backend engineer on an ML forecasting platform at Freddie Mac (since Jul 2026), building FastAPI microservices on AWS EKS/ECS that serve machine-learning models for large-scale forecasting.
+**Now:** senior backend developer on Mercury Plus (M+), Freddie Mac's ML forecasting platform (since Jul 2026), building FastAPI microservices on AWS EKS/ECS that serve machine-learning models for large-scale forecasting.
+
+**Agentic AI engineering:** daily driver of Claude Code and GitHub Copilot with a skill-driven workflow (Superpowers: brainstorm → plan → TDD → verify → code review; Ponytail for minimal, YAGNI-first code; Caveman for token-lean output), custom MCP servers, sub-agent orchestration, and persistent agent memory and skills across design, coding, testing and review.
 
 **Signature numbers**
 - 10+ years across the full software development life cycle
 - Contributed to a platform of 50+ AWS microservices
 - Refactored a >3,000-line Python backend to ~1,000 lines with OOP, +20% performance
 - PyTest coverage kept above 85% for all new code
+- Forecast jobs moved off the API path onto a queue and EKS worker, keeping M+ responsive at 5x quarter-end load
+- Response time on large result sets cut 25% by setting data-access standards for M+ services
+- ~200K inbound faxes a month through Tesseract OCR into .NET apps at Humana, with no lost documents
 - 5 domains: finance, healthcare, retail, pharma, insurance
 - Led backend teams (Freddie Mac 2023–25, Humana 2019–22) and led API development at CVS Health
 
@@ -100,11 +115,11 @@ Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven develo
 
 | When | Where | Domain | Highlights |
 |---|---|---|---|
-| Jul 2026 – now | Freddie Mac | Finance · ML forecasting | Rejoined; FastAPI microservices on AWS EKS/ECS serving ML forecasting models |
-| May 2025 – Jul 2026 | Capital One | Finance · card portfolio decisioning | 50+ AWS microservice platform; event-driven serverless pipeline (EventBridge → Lambda → DynamoDB Streams → Step Functions → Glue/Spark); React/TS + Python; Vitest/RTL, Playwright BDD, feature-flagged rollouts |
-| Jan 2023 – May 2025 | Freddie Mac | Finance · ML forecasting | Led the backend team; 3,000 → 1,000-line refactor (+20% perf); >85% coverage; Tableau deployment PoC → production; built a local RAG system |
+| Jul 2026 – now | Freddie Mac | Finance · ML forecasting | Rejoined Mercury Plus (M+) as a senior backend developer; FastAPI microservices on AWS EKS/ECS serving ML forecasting models |
+| May 2025 – Jul 2026 | Capital One | Finance · card portfolio decisioning | 50+ AWS microservice platform; event-driven serverless pipeline (EventBridge → Lambda → DynamoDB Streams → Step Functions → Glue/Spark); owned the circuit-breaker precheck rollout across UI, API, validation and Spark teams via Optimizely flags; Vitest/RTL, Playwright BDD; PagerDuty on-call; Claude Code + MCP + agent skills |
+| Jan 2023 – May 2025 | Freddie Mac | Finance · ML forecasting | Architect and backend lead of M+; forecast jobs onto a table-backed queue + EKS worker (5x quarter-end load); data-access standards (−25% response time); team coding standards with an 85% coverage gate in CI; 3,000 → 1,000-line refactor (+20% perf); Tableau deployment PoC → production; built a local RAG system |
 | Apr 2022 – Jan 2023 | Agero | Serverless data sync | FastAPI on AWS Lambda from scratch; S3 events → EventBridge → Lambda → MongoDB data sync; GitHub Actions CI/CD; React job dashboard |
-| May 2019 – Apr 2022 | Humana | Healthcare · specialty pharmacy | Led the backend agile team; Tesseract OCR services in Flask integrated with .NET apps; Django; React |
+| May 2019 – Apr 2022 | Humana | Healthcare · specialty pharmacy | Led the backend agile team; Tesseract OCR → Flask → .NET integration (~200K faxes/month, no lost documents); owned the C#/.NET Web API for Utilization and Case Management; Django; React |
 | Jun 2018 – May 2019 | McKesson | Pharma SaaS | Flask + MS SQL; Angular + C# Web API; Express/Node portal with TDD |
 | Sep 2017 – May 2018 | Woolworths (Sydney) | Retail | ASP.NET/C# N-tier; Azure App Insights monitoring; Sev-1 incident response |
 | Jan 2016 – Aug 2017 | CVS Health | Pharmacy apps | Led API development; AngularJS SPA from scratch on Web API + SQL Server |
@@ -117,12 +132,14 @@ Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven develo
 - OCR trilogy: one OCR engine, three deployments: [tesseract-ocr](https://github.com/suriya4code/tesseract-ocr) (FastAPI on Heroku, 2020) → [tesseract-flask](https://github.com/suriya4code/tesseract-flask) (Flask-RESTX on Docker Hub, 2021) → [tesseract-pillow](https://github.com/suriya4code/tesseract-pillow) (Flask web UI with Heroku + Azure CD, 2022).
 - [Express observability lab](https://github.com/suriya4code/express_js_prometheus): Express CRUD API with prom-client (request counter + latency histogram by method/route/status) and winston-loki logs; Prometheus, Grafana and Loki via Docker Compose.
 - [Containers & Kubernetes](https://github.com/suriya4code/python-microservice): Flask API, 5 replicas behind a LoadBalancer Service on Minikube; Docker Hub images `suriya4code/python-flask-microservice` and `suriya4code/flask-ocr`.
+- Agent Harness (in progress): an agent harness that carries long-running, multi-step AI tasks to completion while guarding against hallucinations with long-term memory.
+- Home DNS server: an old Ubuntu laptop repurposed as a self-hosted DNS server for the home network with Technitium DNS Server.
 
 **Tech stack**
-Python, C#/.NET, JavaScript, TypeScript, Swift, Kotlin, Java, Bash, SQL · FastAPI, Flask/Flask-RESTX, .NET Web API/Core, Node/Express, Django · React, Angular/AngularJS, Vue, Redux, SwiftUI, Jetpack Compose · AWS (Lambda, Step Functions, DynamoDB, EventBridge, S3, Glue/Spark, EKS/ECS), Azure, Heroku · GitHub Actions, Docker, Kubernetes, Jenkins · MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy · PyTest, Playwright BDD, Vitest/RTL, XCTest, TDD · Prometheus, Grafana, Loki, CloudWatch, Azure App Insights · Claude Code + MCP + Copilot, local RAG, Tesseract OCR
+Python, C#/.NET, JavaScript, TypeScript, Swift, Kotlin, Java, Bash, SQL, HTML/CSS · FastAPI, Flask/Flask-RESTX, .NET Web API/Core, Entity Framework, Node/Express, Django, GraphQL · React, Angular/AngularJS, Vue, Redux, SwiftUI, Jetpack Compose · AWS (Lambda, EC2, ECS, EKS, S3, Step Functions, EventBridge, DynamoDB, Glue/Spark, CloudFormation, CodeDeploy), Azure, Heroku · GitHub Actions, GitLab CI, Jenkins, Azure Pipelines, Docker, Kubernetes · MS SQL Server, MongoDB, PostgreSQL, Oracle, Redshift, DynamoDB, Tableau, pandas/NumPy · PyTest, Playwright, Cypress, Cucumber (BDD), Vitest, React Testing Library, XCTest, performance testing, TDD · Prometheus, Grafana, Loki, CloudWatch, Azure App Insights · Claude Code, Claude Agent SDK, GitHub Copilot, MCP servers, agent skills and plugins (Superpowers, Ponytail, Caveman), sub-agents, prompt engineering, RAG (LangChain, ChromaDB, Ollama), Playwright MCP, Tesseract OCR
 
 **Certifications**
-Anthropic: Claude Code in Action, Introduction to Model Context Protocol, Claude 101 (Aug 2026) · Microsoft: AZ-204 (Azure Developer Associate), AI-900, AZ-900
+Anthropic (Aug 2026): [Claude Code in Action](https://verify.skilljar.com/c/mvena5hq6df3), [Introduction to Model Context Protocol](https://verify.skilljar.com/c/4b3s9ynkxcq5), [Claude 101](https://verify.skilljar.com/c/5z667jiuj8c6) · Microsoft: AZ-204 (Azure Developer Associate), AI-900, AZ-900
 
 **Contact**
 [LinkedIn](https://www.linkedin.com/in/suriyaprakashp/) · [Stack Overflow](https://stackoverflow.com/users/10440572/suriya-prakash) · [Docker Hub](https://hub.docker.com/u/suriya4code) · [suriya4code@gmail.com](mailto:suriya4code@gmail.com)

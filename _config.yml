@@ -2,10 +2,11 @@
 # The page content is README.md itself (rendered by jekyll-readme-index), so the
 # profile and the website stay in sync: edit README.md once, both update.
 title: Suriyaprakash Palanisamy
-tagline: Senior Software Engineer · Backend · Cloud · ML platforms · AI-driven development
+tagline: Senior Full Stack Developer · Python · React · AWS · GenAI
 description: >-
-  Senior Software Engineer with 10+ years across the full SDLC. FastAPI microservices on AWS EKS/ECS
-  serving ML forecasting models at Freddie Mac. Mechanical engineer by degree: from gears to graphs.
+  Senior Full Stack Developer (Python, React, AWS, GenAI) with 10+ years across the full SDLC. FastAPI
+  microservices on AWS EKS/ECS serving ML forecasting models at Freddie Mac; agentic AI engineering with
+  Claude Code, MCP servers, sub-agents and skills. Mechanical engineer by degree: from gears to graphs.
 url: https://suriya4code.github.io
 baseurl: /suriya4code
 github_username: suriya4code
